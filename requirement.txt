@@ -1,0 +1,81 @@
+alembic==1.8.1
+attrs==21.4.0
+autopage==0.5.1
+brotlipy @ file:///D:/bld/brotlipy_1648854320485/work
+certifi==2022.6.15
+cffi @ file:///D:/bld/cffi_1656782950753/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1655906222726/work
+cliff==3.10.1
+cmaes==0.8.2
+cmd2==2.4.2
+colorama==0.4.5
+colorlog==6.6.0
+cryptography @ file:///D:/bld/cryptography_1657174149370/work
+cycler==0.11.0
+fonttools==4.34.4
+ghostscript==0.7
+graphviz @ file:///tmp/build/80754af9/python-graphviz_1612303637553/work
+greenlet==1.1.2
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1642433548627/work
+importlib-metadata==4.12.0
+importlib-resources==5.9.0
+iniconfig==1.1.1
+joblib==1.1.0
+kaleido==0.2.1
+kiwisolver==1.4.4
+Levenshtein==0.20.7
+Mako==1.2.1
+MarkupSafe==2.1.1
+matplotlib==3.5.2
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci/mkl_random_1626186184278/work
+mkl-service==2.4.0
+mock @ file:///tmp/build/80754af9/mock_1607622725907/work
+numexpr @ file:///C:/Windows/Temp/abs_e2036a32-9fe9-47f3-a04c-dbb1c232ba4b334exiur/croots/recipe/numexpr_1656940304835/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1652802206636/work
+optuna==2.10.1
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas==1.4.3
+pbr==5.9.0
+Pillow @ file:///D:/bld/pillow_1657007269509/work
+plotly @ file:///C:/ci/plotly_1658160690859/work
+pluggy==1.0.0
+prettytable==3.3.0
+py==1.11.0
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1643496850550/work
+pyparsing==3.0.9
+pyperclip==1.8.2
+pyreadline3==3.4.1
+PySocks @ file:///D:/bld/pysocks_1648857453381/work
+pytest==7.1.3
+python-dateutil==2.8.2
+pytz==2022.1
+PyYAML==6.0
+rapidfuzz==2.11.1
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1656534056640/work
+scikit-learn==1.1.1
+scipy==1.8.1
+seaborn==0.11.2
+seqlogo==5.29.8
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sklearn==0.0
+SQLAlchemy==1.4.39
+stevedore==4.0.0
+tables==3.7.0
+tenacity @ file:///C:/Windows/TEMP/abs_980d07a6-8e21-4174-9c17-7296219678ads7dhdov_/croots/recipe/tenacity_1657899108023/work
+Theano==1.0.5
+threadpoolctl==3.1.0
+tomli==2.0.1
+torch==1.12.0
+torchaudio==0.12.0
+torchinfo==1.7.0
+torchvision==0.13.0
+tqdm==4.64.0
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1656706066251/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1658789158161/work
+wcwidth==0.2.5
+weblogo @ file:///home/conda/feedstock_root/build_artifacts/weblogo_1658851555700/work
+win-inet-pton @ file:///D:/bld/win_inet_pton_1648771891747/work
+wincertstore==0.2
+zipp==3.8.1

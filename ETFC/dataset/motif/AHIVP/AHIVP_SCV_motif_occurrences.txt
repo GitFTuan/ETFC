@@ -1,0 +1,57 @@
+MOTIF:  S C V
+******
+>000000010000000000000
+ (sequence 27)
+    start position(s): 7
+    motif(s): SCV
+>000000010000000000000
+ (sequence 40)
+    start position(s): 7
+    motif(s): SCV
+>000000010000000000000
+ (sequence 41)
+    start position(s): 7
+    motif(s): SCV
+>000000010000000000000
+ (sequence 42)
+    start position(s): 7
+    motif(s): SCV
+>000000010000000000000
+ (sequence 43)
+    start position(s): 7
+    motif(s): SCV
+>000000010000000000000
+ (sequence 44)
+    start position(s): 7
+    motif(s): SCV
+>000000010000000000000
+ (sequence 75)
+    start position(s): 8
+    motif(s): SCV
+>000000010000000000000
+ (sequence 76)
+    start position(s): 8
+    motif(s): SCV
+>000000010000000000000
+ (sequence 77)
+    start position(s): 7
+    motif(s): SCV
+>000000010000000000000
+ (sequence 83)
+    start position(s): 7
+    motif(s): SCV
+>000000010000000000000
+ (sequence 84)
+    start position(s): 7
+    motif(s): SCV
+>000000010000000000000
+ (sequence 88)
+    start position(s): 12
+    motif(s): SCV
+>000000010000000000000
+ (sequence 99)
+    start position(s): 100
+    motif(s): SCV
+13 positive sequences contain the motif
+
+0 negative sequences contain the motif

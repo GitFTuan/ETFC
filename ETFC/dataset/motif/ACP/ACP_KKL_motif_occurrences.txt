@@ -1,0 +1,467 @@
+>001000000000000000000
+ (sequence 39)
+    start position(s): 10
+    motif(s): KKL
+>001000000000000000000
+ (sequence 42)
+    start position(s): 4
+    motif(s): KKL
+>001000000000000000000
+ (sequence 48)
+    start position(s): 23
+    motif(s): KKL
+>001000000000000000000
+ (sequence 53)
+    start position(s): 8
+    motif(s): KKL
+>001000000000000000000
+ (sequence 54)
+    start position(s): 8
+    motif(s): KKL
+>001000000000000000000
+ (sequence 56)
+    start position(s): 8
+    motif(s): KKL
+>001000000000000000000
+ (sequence 69)
+    start position(s): 12
+    motif(s): KKL
+>001000000000000000000
+ (sequence 122)
+    start position(s): 8
+    motif(s): KKL
+>001000000000000000000
+ (sequence 197)
+    start position(s): 12
+    motif(s): KKL
+>001000000000000000000
+ (sequence 199)
+    start position(s): 19
+    motif(s): KKL
+>001000000000000000000
+ (sequence 200)
+    start position(s): 10
+    motif(s): KKL
+>001000000000000000000
+ (sequence 206)
+    start position(s): 10
+    motif(s): KKL
+>001000000000000000000
+ (sequence 208)
+    start position(s): 3
+    motif(s): KKL
+>001000000000000000000
+ (sequence 209)
+    start position(s): 3 13
+    motif(s): KKL KKL
+>001000000000000000000
+ (sequence 210)
+    start position(s): 3 7
+    motif(s): KKL KKL
+>001000000000000000000
+ (sequence 211)
+    start position(s): 3 7
+    motif(s): KKL KKL
+>001000000000000000000
+ (sequence 212)
+    start position(s): 3 7
+    motif(s): KKL KKL
+>001000000000000000000
+ (sequence 213)
+    start position(s): 3 7
+    motif(s): KKL KKL
+>001000000000000000000
+ (sequence 214)
+    start position(s): 3 7 10 14
+    motif(s): KKL KKL KKL KKL
+>001000000000000000000
+ (sequence 215)
+    start position(s): 3 7 10 14
+    motif(s): KKL KKL KKL KKL
+>001000000000000000000
+ (sequence 216)
+    start position(s): 3 7 10 14 21
+    motif(s): KKL KKL KKL KKL KKL
+>001000000000000000000
+ (sequence 217)
+    start position(s): 3 7 10 14
+    motif(s): KKL KKL KKL KKL
+>001000000000000000000
+ (sequence 218)
+    start position(s): 3 7 10 14
+    motif(s): KKL KKL KKL KKL
+>001000000000000000000
+ (sequence 219)
+    start position(s): 3 7 10 14
+    motif(s): KKL KKL KKL KKL
+>001000000000000000000
+ (sequence 220)
+    start position(s): 3 7 10
+    motif(s): KKL KKL KKL
+>001000000000000000000
+ (sequence 221)
+    start position(s): 3 7 10
+    motif(s): KKL KKL KKL
+>001000000000000000000
+ (sequence 222)
+    start position(s): 3 7
+    motif(s): KKL KKL
+>001000000000000000000
+ (sequence 223)
+    start position(s): 3
+    motif(s): KKL
+>001000000000000000000
+ (sequence 224)
+    start position(s): 3 10
+    motif(s): KKL KKL
+>001000000000000000000
+ (sequence 225)
+    start position(s): 3 10
+    motif(s): KKL KKL
+>001000000000000000000
+ (sequence 226)
+    start position(s): 3 10
+    motif(s): KKL KKL
+>001000000000000000000
+ (sequence 227)
+    start position(s): 3 10
+    motif(s): KKL KKL
+>001000000000000000000
+ (sequence 228)
+    start position(s): 3 10
+    motif(s): KKL KKL
+>001000000000000000000
+ (sequence 229)
+    start position(s): 3
+    motif(s): KKL
+>001000000000000000000
+ (sequence 230)
+    start position(s): 3 6 10
+    motif(s): KKL KKL KKL
+>001000000000000000000
+ (sequence 231)
+    start position(s): 3 6 13
+    motif(s): KKL KKL KKL
+>001000000000000000000
+ (sequence 232)
+    start position(s): 3
+    motif(s): KKL
+>001000000000000000000
+ (sequence 235)
+    start position(s): 6
+    motif(s): KKL
+>001000000000000000000
+ (sequence 243)
+    start position(s): 10
+    motif(s): KKL
+>001000000000000000000
+ (sequence 244)
+    start position(s): 10
+    motif(s): KKL
+>001000000000000000000
+ (sequence 247)
+    start position(s): 7
+    motif(s): KKL
+>001000000000000000000
+ (sequence 259)
+    start position(s): 10
+    motif(s): KKL
+>001000000000000000000
+ (sequence 260)
+    start position(s): 10
+    motif(s): KKL
+>001000000000000000000
+ (sequence 266)
+    start position(s): 10
+    motif(s): KKL
+>001000000000000000000
+ (sequence 267)
+    start position(s): 19
+    motif(s): KKL
+>001000000000000000000
+ (sequence 268)
+    start position(s): 10
+    motif(s): KKL
+>001000000000000000000
+ (sequence 269)
+    start position(s): 9 13 16
+    motif(s): KKL KKL KKL
+>001000000000000000000
+ (sequence 274)
+    start position(s): 8
+    motif(s): KKL
+>001000000000000000000
+ (sequence 278)
+    start position(s): 13
+    motif(s): KKL
+>001000000000000000000
+ (sequence 279)
+    start position(s): 9
+    motif(s): KKL
+>001000000000000000000
+ (sequence 280)
+    start position(s): 9 13 16
+    motif(s): KKL KKL KKL
+>001000000000000000000
+ (sequence 281)
+    start position(s): 9
+    motif(s): KKL
+>001000000000000000000
+ (sequence 282)
+    start position(s): 9 13 16
+    motif(s): KKL KKL KKL
+>001000000000000000000
+ (sequence 285)
+    start position(s): 9
+    motif(s): KKL
+>001000000000000000000
+ (sequence 286)
+    start position(s): 8
+    motif(s): KKL
+>001000000000000000000
+ (sequence 289)
+    start position(s): 7
+    motif(s): KKL
+>001000000000000000000
+ (sequence 294)
+    start position(s): 13
+    motif(s): KKL
+>001000000000000000000
+ (sequence 322)
+    start position(s): 10
+    motif(s): KKL
+>001000000000000000000
+ (sequence 339)
+    start position(s): 11
+    motif(s): KKL
+>001000000000000000000
+ (sequence 340)
+    start position(s): 11
+    motif(s): KKL
+>001000000000000000000
+ (sequence 341)
+    start position(s): 11
+    motif(s): KKL
+>001000000000000000000
+ (sequence 343)
+    start position(s): 2
+    motif(s): KKL
+>001000000000000000000
+ (sequence 346)
+    start position(s): 17
+    motif(s): KKL
+>001000000000000000000
+ (sequence 373)
+    start position(s): 10
+    motif(s): KKL
+>001000000000000000000
+ (sequence 384)
+    start position(s): 6
+    motif(s): KKL
+>001000000000000000000
+ (sequence 385)
+    start position(s): 6
+    motif(s): KKL
+>001000000000000000000
+ (sequence 429)
+    start position(s): 5
+    motif(s): KKL
+>001000000000000000000
+ (sequence 470)
+    start position(s): 17
+    motif(s): KKL
+>001000000000000000000
+ (sequence 537)
+    start position(s): 11
+    motif(s): KKL
+>001000000000000000000
+ (sequence 610)
+    start position(s): 14
+    motif(s): KKL
+>001000000000000000000
+ (sequence 612)
+    start position(s): 14
+    motif(s): KKL
+>001000000000000000000
+ (sequence 615)
+    start position(s): 14
+    motif(s): KKL
+>001000000000000000000
+ (sequence 625)
+    start position(s): 7
+    motif(s): KKL
+>001000000000000000000
+ (sequence 632)
+    start position(s): 14
+    motif(s): KKL
+>001000000000000000000
+ (sequence 637)
+    start position(s): 14
+    motif(s): KKL
+>001000000000000000000
+ (sequence 644)
+    start position(s): 14
+    motif(s): KKL
+>001000000000000000000
+ (sequence 654)
+    start position(s): 3 11
+    motif(s): KKL KKL
+>001000000000000000000
+ (sequence 704)
+    start position(s): 11 15
+    motif(s): KKL KKL
+>001000000000000000000
+ (sequence 741)
+    start position(s): 4
+    motif(s): KKL
+>001000000000000000000
+ (sequence 751)
+    start position(s): 9
+    motif(s): KKL
+>001000000000000000000
+ (sequence 777)
+    start position(s): 3
+    motif(s): KKL
+>001000000000000000000
+ (sequence 778)
+    start position(s): 3
+    motif(s): KKL
+>001000000000000000000
+ (sequence 791)
+    start position(s): 4
+    motif(s): KKL
+>001000000000000000000
+ (sequence 793)
+    start position(s): 7
+    motif(s): KKL
+>001000000000000000000
+ (sequence 798)
+    start position(s): 11
+    motif(s): KKL
+>001000000000000000000
+ (sequence 800)
+    start position(s): 8
+    motif(s): KKL
+>001000000000000000000
+ (sequence 801)
+    start position(s): 7
+    motif(s): KKL
+>001000000000000000000
+ (sequence 805)
+    start position(s): 24
+    motif(s): KKL
+>001000000000000000000
+ (sequence 821)
+    start position(s): 18
+    motif(s): KKL
+>001000000000000000000
+ (sequence 824)
+    start position(s): 10 14 17 21
+    motif(s): KKL KKL KKL KKL
+>001000000000000000000
+ (sequence 832)
+    start position(s): 3
+    motif(s): KKL
+>001000000000000000000
+ (sequence 833)
+    start position(s): 3 14 18
+    motif(s): KKL KKL KKL
+>001000000000000000000
+ (sequence 837)
+    start position(s): 10
+    motif(s): KKL
+>001000000000000000000
+ (sequence 864)
+    start position(s): 17 21
+    motif(s): KKL KKL
+>001000000000000000000
+ (sequence 877)
+    start position(s): 7
+    motif(s): KKL
+>001000000000000000000
+ (sequence 885)
+    start position(s): 2
+    motif(s): KKL
+>001000000000000000000
+ (sequence 917)
+    start position(s): 18
+    motif(s): KKL
+>001000000000000000000
+ (sequence 919)
+    start position(s): 23 27
+    motif(s): KKL KKL
+>001000000000000000000
+ (sequence 923)
+    start position(s): 14
+    motif(s): KKL
+>001000000000000000000
+ (sequence 930)
+    start position(s): 14
+    motif(s): KKL
+>001000000000000000000
+ (sequence 932)
+    start position(s): 14
+    motif(s): KKL
+>001000000000000000000
+ (sequence 933)
+    start position(s): 14
+    motif(s): KKL
+>001000000000000000000
+ (sequence 936)
+    start position(s): 14
+    motif(s): KKL
+>001000000000000000000
+ (sequence 993)
+    start position(s): 8
+    motif(s): KKL
+>001000000000000000000
+ (sequence 999)
+    start position(s): 23
+    motif(s): KKL
+>001000000000000000000
+ (sequence 1008)
+    start position(s): 3 10
+    motif(s): KKL KKL
+>001000000000000000000
+ (sequence 1009)
+    start position(s): 3 10
+    motif(s): KKL KKL
+>001000000000000000000
+ (sequence 1010)
+    start position(s): 3 10
+    motif(s): KKL KKL
+>001000000000000000000
+ (sequence 1011)
+    start position(s): 10
+    motif(s): KKL
+>001000000000000000000
+ (sequence 1012)
+    start position(s): 10
+    motif(s): KKL
+>001000000000000000000
+ (sequence 1014)
+    start position(s): 13
+    motif(s): KKL
+>001000000000000000000
+ (sequence 1015)
+    start position(s): 9
+    motif(s): KKL
+>001000000000000000000
+ (sequence 1016)
+    start position(s): 9 13 16
+    motif(s): KKL KKL KKL
+>001000000000000000000
+ (sequence 1020)
+    start position(s): 4
+    motif(s): KKL
+>001000000000000000000
+ (sequence 1028)
+    start position(s): 4
+    motif(s): KKL
+>001000000000000000000
+ (sequence 1049)
+    start position(s): 23
+    motif(s): KKL
+116 positive sequences contain the motif
+
+0 negative sequences contain the motif

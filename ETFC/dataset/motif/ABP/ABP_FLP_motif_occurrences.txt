@@ -1,0 +1,503 @@
+>010000000000000000000
+ (sequence 343)
+    start position(s): 12
+    motif(s): FLP
+>010000000000000000000
+ (sequence 449)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 450)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 451)
+    start position(s): 1 12
+    motif(s): FLP FLP
+>010000000000000000000
+ (sequence 452)
+    start position(s): 1 12
+    motif(s): FLP FLP
+>010000000000000000000
+ (sequence 453)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 454)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 455)
+    start position(s): 1 12
+    motif(s): FLP FLP
+>010000000000000000000
+ (sequence 456)
+    start position(s): 1 12
+    motif(s): FLP FLP
+>010000000000000000000
+ (sequence 457)
+    start position(s): 1 12
+    motif(s): FLP FLP
+>010000000000000000000
+ (sequence 458)
+    start position(s): 1 12
+    motif(s): FLP FLP
+>010000000000000000000
+ (sequence 459)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 460)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 461)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 462)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 463)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 464)
+    start position(s): 1 12
+    motif(s): FLP FLP
+>010000000000000000000
+ (sequence 465)
+    start position(s): 1 12
+    motif(s): FLP FLP
+>010000000000000000000
+ (sequence 466)
+    start position(s): 1 12
+    motif(s): FLP FLP
+>010000000000000000000
+ (sequence 467)
+    start position(s): 1 12
+    motif(s): FLP FLP
+>010000000000000000000
+ (sequence 468)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 469)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 470)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 471)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 472)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 473)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 474)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 475)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 476)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 477)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 478)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 479)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 480)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 481)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 482)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 483)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 484)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 485)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 486)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 487)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 488)
+    start position(s): 1 12
+    motif(s): FLP FLP
+>010000000000000000000
+ (sequence 489)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 490)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 491)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 492)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 493)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 494)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 495)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 496)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 497)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 498)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 499)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 500)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 501)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 502)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 503)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 504)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 505)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 506)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 507)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 508)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 509)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 510)
+    start position(s): 1 12
+    motif(s): FLP FLP
+>010000000000000000000
+ (sequence 511)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 512)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 513)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 514)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 515)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 516)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 517)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 518)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 519)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 520)
+    start position(s): 1 12
+    motif(s): FLP FLP
+>010000000000000000000
+ (sequence 521)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 522)
+    start position(s): 1 5
+    motif(s): FLP FLP
+>010000000000000000000
+ (sequence 523)
+    start position(s): 1 12
+    motif(s): FLP FLP
+>010000000000000000000
+ (sequence 524)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 525)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 526)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 527)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 528)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 529)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 530)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 531)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 532)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 533)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 534)
+    start position(s): 1 12
+    motif(s): FLP FLP
+>010000000000000000000
+ (sequence 535)
+    start position(s): 1 12
+    motif(s): FLP FLP
+>010000000000000000000
+ (sequence 536)
+    start position(s): 1 12
+    motif(s): FLP FLP
+>010000000000000000000
+ (sequence 537)
+    start position(s): 1 12
+    motif(s): FLP FLP
+>010000000000000000000
+ (sequence 538)
+    start position(s): 1 12
+    motif(s): FLP FLP
+>010000000000000000000
+ (sequence 539)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 540)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 541)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 542)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 543)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 544)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 545)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 546)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 547)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 548)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 549)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 550)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 551)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 552)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 553)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 554)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 555)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 556)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 557)
+    start position(s): 1 12
+    motif(s): FLP FLP
+>010000000000000000000
+ (sequence 558)
+    start position(s): 1 12
+    motif(s): FLP FLP
+>010000000000000000000
+ (sequence 559)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 560)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 561)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 562)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 563)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 564)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 565)
+    start position(s): 1
+    motif(s): FLP
+>010000000000000000000
+ (sequence 1090)
+    start position(s): 5
+    motif(s): FLP
+>010000000000000000000
+ (sequence 1200)
+    start position(s): 7
+    motif(s): FLP
+>010000000000000000000
+ (sequence 1657)
+    start position(s): 9
+    motif(s): FLP
+>010000000000000000000
+ (sequence 1658)
+    start position(s): 9
+    motif(s): FLP
+>010000000000000000000
+ (sequence 1695)
+    start position(s): 11
+    motif(s): FLP
+>010000000000000000000
+ (sequence 1879)
+    start position(s): 28
+    motif(s): FLP
+>010000000000000000000
+ (sequence 2104)
+    start position(s): 41
+    motif(s): FLP
+125 positive sequences contain the motif
+
+0 negative sequences contain the motif

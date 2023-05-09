@@ -1,0 +1,267 @@
+>000000000000010000000
+ (sequence 19)
+    start position(s): 19
+    motif(s): EES
+>000000000000010000000
+ (sequence 20)
+    start position(s): 19
+    motif(s): EES
+>000000000000010000000
+ (sequence 71)
+    start position(s): 14
+    motif(s): EES
+>000000000000010000000
+ (sequence 72)
+    start position(s): 27
+    motif(s): EES
+>000000000000010000000
+ (sequence 75)
+    start position(s): 17
+    motif(s): EES
+>000000000000010000000
+ (sequence 76)
+    start position(s): 17
+    motif(s): EES
+>000000000000010000000
+ (sequence 80)
+    start position(s): 16
+    motif(s): EES
+>000000000000010000000
+ (sequence 88)
+    start position(s): 2
+    motif(s): EES
+>000000000000010000000
+ (sequence 110)
+    start position(s): 10
+    motif(s): EES
+>000000000000010000000
+ (sequence 114)
+    start position(s): 18
+    motif(s): EES
+>000000000000010000000
+ (sequence 284)
+    start position(s): 15
+    motif(s): EES
+>000000000000010000000
+ (sequence 285)
+    start position(s): 15
+    motif(s): EES
+>000000000000010000000
+ (sequence 288)
+    start position(s): 11
+    motif(s): EES
+>000000000000010000000
+ (sequence 302)
+    start position(s): 13
+    motif(s): EES
+>000000000000010000000
+ (sequence 306)
+    start position(s): 26
+    motif(s): EES
+>000000000000010000000
+ (sequence 350)
+    start position(s): 18
+    motif(s): EES
+>000000000000010000000
+ (sequence 351)
+    start position(s): 18
+    motif(s): EES
+>000000000000010000000
+ (sequence 390)
+    start position(s): 7
+    motif(s): EES
+>000000000000010000000
+ (sequence 398)
+    start position(s): 24
+    motif(s): EES
+>000000000000010000000
+ (sequence 418)
+    start position(s): 19
+    motif(s): EES
+>000000000000010000000
+ (sequence 426)
+    start position(s): 22
+    motif(s): EES
+>000000000000010000000
+ (sequence 427)
+    start position(s): 22
+    motif(s): EES
+>000000000000010000000
+ (sequence 434)
+    start position(s): 23
+    motif(s): EES
+>000000000000010000000
+ (sequence 436)
+    start position(s): 24
+    motif(s): EES
+>000000000000010000000
+ (sequence 437)
+    start position(s): 23
+    motif(s): EES
+>000000000000010000000
+ (sequence 438)
+    start position(s): 12
+    motif(s): EES
+>000000000000010000000
+ (sequence 442)
+    start position(s): 22
+    motif(s): EES
+>000000000000010000000
+ (sequence 443)
+    start position(s): 22
+    motif(s): EES
+>000000000000010000000
+ (sequence 446)
+    start position(s): 11
+    motif(s): EES
+>000000000000010000000
+ (sequence 448)
+    start position(s): 16
+    motif(s): EES
+>000000000000010000000
+ (sequence 449)
+    start position(s): 16
+    motif(s): EES
+>000000000000010000000
+ (sequence 473)
+    start position(s): 27
+    motif(s): EES
+>000000000000010000000
+ (sequence 557)
+    start position(s): 12
+    motif(s): EES
+>000000000000010000000
+ (sequence 558)
+    start position(s): 12
+    motif(s): EES
+>000000000000010000000
+ (sequence 566)
+    start position(s): 8
+    motif(s): EES
+>000000000000010000000
+ (sequence 577)
+    start position(s): 21
+    motif(s): EES
+>000000000000010000000
+ (sequence 623)
+    start position(s): 25
+    motif(s): EES
+>000000000000010000000
+ (sequence 625)
+    start position(s): 9
+    motif(s): EES
+>000000000000010000000
+ (sequence 643)
+    start position(s): 21
+    motif(s): EES
+>000000000000010000000
+ (sequence 644)
+    start position(s): 20
+    motif(s): EES
+>000000000000010000000
+ (sequence 645)
+    start position(s): 20
+    motif(s): EES
+>000000000000010000000
+ (sequence 646)
+    start position(s): 20
+    motif(s): EES
+>000000000000010000000
+ (sequence 647)
+    start position(s): 20
+    motif(s): EES
+>000000000000010000000
+ (sequence 648)
+    start position(s): 20
+    motif(s): EES
+>000000000000010000000
+ (sequence 649)
+    start position(s): 20
+    motif(s): EES
+>000000000000010000000
+ (sequence 674)
+    start position(s): 17
+    motif(s): EES
+>000000000000010000000
+ (sequence 681)
+    start position(s): 20
+    motif(s): EES
+>000000000000010000000
+ (sequence 682)
+    start position(s): 20
+    motif(s): EES
+>000000000000010000000
+ (sequence 683)
+    start position(s): 20
+    motif(s): EES
+>000000000000010000000
+ (sequence 685)
+    start position(s): 25
+    motif(s): EES
+>000000000000010000000
+ (sequence 716)
+    start position(s): 10
+    motif(s): EES
+>000000000000010000000
+ (sequence 717)
+    start position(s): 10
+    motif(s): EES
+>000000000000010000000
+ (sequence 718)
+    start position(s): 10
+    motif(s): EES
+>000000000000010000000
+ (sequence 719)
+    start position(s): 10
+    motif(s): EES
+>000000000000010000000
+ (sequence 720)
+    start position(s): 10
+    motif(s): EES
+>000000000000010000000
+ (sequence 721)
+    start position(s): 10
+    motif(s): EES
+>000000000000010000000
+ (sequence 722)
+    start position(s): 10
+    motif(s): EES
+>000000000000010000000
+ (sequence 723)
+    start position(s): 10
+    motif(s): EES
+>000000000000010000000
+ (sequence 724)
+    start position(s): 10
+    motif(s): EES
+>000000000000010000000
+ (sequence 725)
+    start position(s): 10
+    motif(s): EES
+>000000000000010000000
+ (sequence 726)
+    start position(s): 10
+    motif(s): EES
+>000000000000010000000
+ (sequence 727)
+    start position(s): 10
+    motif(s): EES
+>000000000000010000000
+ (sequence 728)
+    start position(s): 10
+    motif(s): EES
+>000000000000010000000
+ (sequence 729)
+    start position(s): 10
+    motif(s): EES
+>000000000000010000000
+ (sequence 732)
+    start position(s): 10
+    motif(s): EES
+>000000000000010000000
+ (sequence 733)
+    start position(s): 10
+    motif(s): EES
+66 positive sequences contain the motif
+
+0 negative sequences contain the motif

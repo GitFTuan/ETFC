@@ -1,0 +1,555 @@
+>001000000000000000000
+ (sequence 30)
+    start position(s): 9
+    motif(s): LAK
+>001000000000000000000
+ (sequence 43)
+    start position(s): 11
+    motif(s): LAK
+>001000000000000000000
+ (sequence 51)
+    start position(s): 17
+    motif(s): LAK
+>001000000000000000000
+ (sequence 90)
+    start position(s): 4
+    motif(s): LAK
+>001000000000000000000
+ (sequence 200)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 202)
+    start position(s): 5
+    motif(s): LAK
+>001000000000000000000
+ (sequence 208)
+    start position(s): 5
+    motif(s): LAK
+>001000000000000000000
+ (sequence 209)
+    start position(s): 5 11
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 210)
+    start position(s): 5 9
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 211)
+    start position(s): 5 9
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 212)
+    start position(s): 5 9
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 213)
+    start position(s): 5 9
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 214)
+    start position(s): 5 12 16
+    motif(s): LAK LAK LAK
+>001000000000000000000
+ (sequence 215)
+    start position(s): 5 12 16
+    motif(s): LAK LAK LAK
+>001000000000000000000
+ (sequence 216)
+    start position(s): 5 12 16 19
+    motif(s): LAK LAK LAK LAK
+>001000000000000000000
+ (sequence 217)
+    start position(s): 5 12 16
+    motif(s): LAK LAK LAK
+>001000000000000000000
+ (sequence 218)
+    start position(s): 5 12 16
+    motif(s): LAK LAK LAK
+>001000000000000000000
+ (sequence 219)
+    start position(s): 5 12
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 220)
+    start position(s): 5 12 17
+    motif(s): LAK LAK LAK
+>001000000000000000000
+ (sequence 221)
+    start position(s): 5 12
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 222)
+    start position(s): 5
+    motif(s): LAK
+>001000000000000000000
+ (sequence 223)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 224)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 225)
+    start position(s): 5 8 12
+    motif(s): LAK LAK LAK
+>001000000000000000000
+ (sequence 226)
+    start position(s): 5 8 12
+    motif(s): LAK LAK LAK
+>001000000000000000000
+ (sequence 227)
+    start position(s): 5 8 12
+    motif(s): LAK LAK LAK
+>001000000000000000000
+ (sequence 228)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 229)
+    start position(s): 5 12
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 230)
+    start position(s): 8
+    motif(s): LAK
+>001000000000000000000
+ (sequence 231)
+    start position(s): 8 11
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 232)
+    start position(s): 6
+    motif(s): LAK
+>001000000000000000000
+ (sequence 234)
+    start position(s): 4 9
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 235)
+    start position(s): 4
+    motif(s): LAK
+>001000000000000000000
+ (sequence 238)
+    start position(s): 8
+    motif(s): LAK
+>001000000000000000000
+ (sequence 239)
+    start position(s): 5
+    motif(s): LAK
+>001000000000000000000
+ (sequence 240)
+    start position(s): 5
+    motif(s): LAK
+>001000000000000000000
+ (sequence 241)
+    start position(s): 5
+    motif(s): LAK
+>001000000000000000000
+ (sequence 242)
+    start position(s): 5
+    motif(s): LAK
+>001000000000000000000
+ (sequence 243)
+    start position(s): 5
+    motif(s): LAK
+>001000000000000000000
+ (sequence 244)
+    start position(s): 5
+    motif(s): LAK
+>001000000000000000000
+ (sequence 245)
+    start position(s): 5
+    motif(s): LAK
+>001000000000000000000
+ (sequence 246)
+    start position(s): 5
+    motif(s): LAK
+>001000000000000000000
+ (sequence 247)
+    start position(s): 5
+    motif(s): LAK
+>001000000000000000000
+ (sequence 248)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 249)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 250)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 251)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 252)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 253)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 254)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 255)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 256)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 257)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 258)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 259)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 260)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 261)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 262)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 263)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 268)
+    start position(s): 8
+    motif(s): LAK
+>001000000000000000000
+ (sequence 269)
+    start position(s): 11 18
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 270)
+    start position(s): 3
+    motif(s): LAK
+>001000000000000000000
+ (sequence 271)
+    start position(s): 3
+    motif(s): LAK
+>001000000000000000000
+ (sequence 272)
+    start position(s): 3 6
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 280)
+    start position(s): 11 18
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 282)
+    start position(s): 18
+    motif(s): LAK
+>001000000000000000000
+ (sequence 284)
+    start position(s): 7
+    motif(s): LAK
+>001000000000000000000
+ (sequence 285)
+    start position(s): 7
+    motif(s): LAK
+>001000000000000000000
+ (sequence 293)
+    start position(s): 12
+    motif(s): LAK
+>001000000000000000000
+ (sequence 344)
+    start position(s): 7
+    motif(s): LAK
+>001000000000000000000
+ (sequence 345)
+    start position(s): 13
+    motif(s): LAK
+>001000000000000000000
+ (sequence 346)
+    start position(s): 15
+    motif(s): LAK
+>001000000000000000000
+ (sequence 349)
+    start position(s): 4 12
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 358)
+    start position(s): 12
+    motif(s): LAK
+>001000000000000000000
+ (sequence 359)
+    start position(s): 5
+    motif(s): LAK
+>001000000000000000000
+ (sequence 394)
+    start position(s): 5
+    motif(s): LAK
+>001000000000000000000
+ (sequence 465)
+    start position(s): 15
+    motif(s): LAK
+>001000000000000000000
+ (sequence 470)
+    start position(s): 15
+    motif(s): LAK
+>001000000000000000000
+ (sequence 478)
+    start position(s): 4 33
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 482)
+    start position(s): 4
+    motif(s): LAK
+>001000000000000000000
+ (sequence 489)
+    start position(s): 5
+    motif(s): LAK
+>001000000000000000000
+ (sequence 513)
+    start position(s): 5
+    motif(s): LAK
+>001000000000000000000
+ (sequence 517)
+    start position(s): 9
+    motif(s): LAK
+>001000000000000000000
+ (sequence 533)
+    start position(s): 9
+    motif(s): LAK
+>001000000000000000000
+ (sequence 553)
+    start position(s): 21
+    motif(s): LAK
+>001000000000000000000
+ (sequence 561)
+    start position(s): 17
+    motif(s): LAK
+>001000000000000000000
+ (sequence 563)
+    start position(s): 17
+    motif(s): LAK
+>001000000000000000000
+ (sequence 572)
+    start position(s): 17
+    motif(s): LAK
+>001000000000000000000
+ (sequence 574)
+    start position(s): 16
+    motif(s): LAK
+>001000000000000000000
+ (sequence 640)
+    start position(s): 6
+    motif(s): LAK
+>001000000000000000000
+ (sequence 641)
+    start position(s): 6
+    motif(s): LAK
+>001000000000000000000
+ (sequence 651)
+    start position(s): 6
+    motif(s): LAK
+>001000000000000000000
+ (sequence 652)
+    start position(s): 7
+    motif(s): LAK
+>001000000000000000000
+ (sequence 660)
+    start position(s): 16
+    motif(s): LAK
+>001000000000000000000
+ (sequence 754)
+    start position(s): 9
+    motif(s): LAK
+>001000000000000000000
+ (sequence 771)
+    start position(s): 4 9
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 777)
+    start position(s): 5
+    motif(s): LAK
+>001000000000000000000
+ (sequence 778)
+    start position(s): 5
+    motif(s): LAK
+>001000000000000000000
+ (sequence 779)
+    start position(s): 7
+    motif(s): LAK
+>001000000000000000000
+ (sequence 791)
+    start position(s): 2 6 9 12
+    motif(s): LAK LAK LAK LAK
+>001000000000000000000
+ (sequence 792)
+    start position(s): 2 5
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 793)
+    start position(s): 2 5 9 12
+    motif(s): LAK LAK LAK LAK
+>001000000000000000000
+ (sequence 824)
+    start position(s): 12 19
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 827)
+    start position(s): 12
+    motif(s): LAK
+>001000000000000000000
+ (sequence 829)
+    start position(s): 13
+    motif(s): LAK
+>001000000000000000000
+ (sequence 831)
+    start position(s): 16
+    motif(s): LAK
+>001000000000000000000
+ (sequence 832)
+    start position(s): 5
+    motif(s): LAK
+>001000000000000000000
+ (sequence 834)
+    start position(s): 4
+    motif(s): LAK
+>001000000000000000000
+ (sequence 836)
+    start position(s): 16
+    motif(s): LAK
+>001000000000000000000
+ (sequence 840)
+    start position(s): 16
+    motif(s): LAK
+>001000000000000000000
+ (sequence 844)
+    start position(s): 15
+    motif(s): LAK
+>001000000000000000000
+ (sequence 845)
+    start position(s): 16
+    motif(s): LAK
+>001000000000000000000
+ (sequence 850)
+    start position(s): 14
+    motif(s): LAK
+>001000000000000000000
+ (sequence 851)
+    start position(s): 13
+    motif(s): LAK
+>001000000000000000000
+ (sequence 852)
+    start position(s): 11
+    motif(s): LAK
+>001000000000000000000
+ (sequence 856)
+    start position(s): 14
+    motif(s): LAK
+>001000000000000000000
+ (sequence 857)
+    start position(s): 14
+    motif(s): LAK
+>001000000000000000000
+ (sequence 858)
+    start position(s): 14
+    motif(s): LAK
+>001000000000000000000
+ (sequence 860)
+    start position(s): 10
+    motif(s): LAK
+>001000000000000000000
+ (sequence 861)
+    start position(s): 12
+    motif(s): LAK
+>001000000000000000000
+ (sequence 863)
+    start position(s): 14
+    motif(s): LAK
+>001000000000000000000
+ (sequence 864)
+    start position(s): 19
+    motif(s): LAK
+>001000000000000000000
+ (sequence 877)
+    start position(s): 9
+    motif(s): LAK
+>001000000000000000000
+ (sequence 885)
+    start position(s): 4
+    motif(s): LAK
+>001000000000000000000
+ (sequence 1004)
+    start position(s): 5
+    motif(s): LAK
+>001000000000000000000
+ (sequence 1006)
+    start position(s): 5
+    motif(s): LAK
+>001000000000000000000
+ (sequence 1008)
+    start position(s): 5 8 12
+    motif(s): LAK LAK LAK
+>001000000000000000000
+ (sequence 1009)
+    start position(s): 5 8 12
+    motif(s): LAK LAK LAK
+>001000000000000000000
+ (sequence 1010)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 1011)
+    start position(s): 5
+    motif(s): LAK
+>001000000000000000000
+ (sequence 1012)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 1013)
+    start position(s): 5 8
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 1016)
+    start position(s): 11 18
+    motif(s): LAK LAK
+>001000000000000000000
+ (sequence 1022)
+    start position(s): 7
+    motif(s): LAK
+>001000000000000000000
+ (sequence 1037)
+    start position(s): 11
+    motif(s): LAK
+>001000000000000000000
+ (sequence 1040)
+    start position(s): 10
+    motif(s): LAK
+>001000000000000000000
+ (sequence 1042)
+    start position(s): 13
+    motif(s): LAK
+>001000000000000000000
+ (sequence 1045)
+    start position(s): 5 8
+    motif(s): LAK LAK
+138 positive sequences contain the motif
+
+0 negative sequences contain the motif

@@ -1,0 +1,591 @@
+>000000100000000000000
+ (sequence 29)
+    start position(s): 19
+    motif(s): RRR
+>000000100000000000000
+ (sequence 30)
+    start position(s): 32
+    motif(s): RRR
+>000000100000000000000
+ (sequence 104)
+    start position(s): 62
+    motif(s): RRR
+>000000100000000000000
+ (sequence 142)
+    start position(s): 66
+    motif(s): RRR
+>000000100000000000000
+ (sequence 143)
+    start position(s): 5
+    motif(s): RRR
+>000000100000000000000
+ (sequence 144)
+    start position(s): 5
+    motif(s): RRR
+>000000100000000000000
+ (sequence 156)
+    start position(s): 48
+    motif(s): RRR
+>000000100000000000000
+ (sequence 210)
+    start position(s): 5
+    motif(s): RRR
+>000000100000000000000
+ (sequence 389)
+    start position(s): 21 22 23
+    motif(s): RRR RRR RRR
+>000000100000000000000
+ (sequence 500)
+    start position(s): 30
+    motif(s): RRR
+>000000100000000000000
+ (sequence 505)
+    start position(s): 53
+    motif(s): RRR
+>000000100000000000000
+ (sequence 519)
+    start position(s): 28
+    motif(s): RRR
+>000000100000000000000
+ (sequence 530)
+    start position(s): 18
+    motif(s): RRR
+>000000100000000000000
+ (sequence 534)
+    start position(s): 19
+    motif(s): RRR
+>000000100000000000000
+ (sequence 539)
+    start position(s): 29
+    motif(s): RRR
+>000000100000000000000
+ (sequence 553)
+    start position(s): 3
+    motif(s): RRR
+>000000100000000000000
+ (sequence 572)
+    start position(s): 6
+    motif(s): RRR
+>000000100000000000000
+ (sequence 587)
+    start position(s): 43
+    motif(s): RRR
+>000000100000000000000
+ (sequence 733)
+    start position(s): 46
+    motif(s): RRR
+>000000100000000000000
+ (sequence 734)
+    start position(s): 46
+    motif(s): RRR
+>000000100000000000000
+ (sequence 750)
+    start position(s): 30 31
+    motif(s): RRR RRR
+>000000100000000000000
+ (sequence 754)
+    start position(s): 65
+    motif(s): RRR
+>000000100000000000000
+ (sequence 761)
+    start position(s): 64
+    motif(s): RRR
+>000000100000000000000
+ (sequence 820)
+    start position(s): 62
+    motif(s): RRR
+>000000100000000000000
+ (sequence 842)
+    start position(s): 57
+    motif(s): RRR
+>000000100000000000000
+ (sequence 882)
+    start position(s): 8
+    motif(s): RRR
+>000000100000000000000
+ (sequence 940)
+    start position(s): 31
+    motif(s): RRR
+>000000100000000000000
+ (sequence 958)
+    start position(s): 4
+    motif(s): RRR
+>000000100000000000000
+ (sequence 987)
+    start position(s): 13
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1102)
+    start position(s): 16 17
+    motif(s): RRR RRR
+>000000100000000000000
+ (sequence 1124)
+    start position(s): 61
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1135)
+    start position(s): 4
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1152)
+    start position(s): 13
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1170)
+    start position(s): 58
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1192)
+    start position(s): 62 63
+    motif(s): RRR RRR
+>000000100000000000000
+ (sequence 1193)
+    start position(s): 62 63
+    motif(s): RRR RRR
+>000000100000000000000
+ (sequence 1211)
+    start position(s): 60
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1227)
+    start position(s): 67
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1234)
+    start position(s): 67
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1235)
+    start position(s): 67
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1236)
+    start position(s): 67
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1238)
+    start position(s): 67
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1240)
+    start position(s): 67
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1252)
+    start position(s): 8
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1258)
+    start position(s): 15
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1315)
+    start position(s): 67
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1350)
+    start position(s): 75
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1352)
+    start position(s): 75
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1360)
+    start position(s): 19 20
+    motif(s): RRR RRR
+>000000100000000000000
+ (sequence 1361)
+    start position(s): 18
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1362)
+    start position(s): 18
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1363)
+    start position(s): 18
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1364)
+    start position(s): 18 19 20
+    motif(s): RRR RRR RRR
+>000000100000000000000
+ (sequence 1365)
+    start position(s): 18
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1366)
+    start position(s): 18
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1371)
+    start position(s): 21
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1377)
+    start position(s): 63
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1397)
+    start position(s): 20
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1400)
+    start position(s): 33 34
+    motif(s): RRR RRR
+>000000100000000000000
+ (sequence 1401)
+    start position(s): 33
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1402)
+    start position(s): 33
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1404)
+    start position(s): 33
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1405)
+    start position(s): 33
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1406)
+    start position(s): 33
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1409)
+    start position(s): 33 34
+    motif(s): RRR RRR
+>000000100000000000000
+ (sequence 1412)
+    start position(s): 33
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1413)
+    start position(s): 33 34
+    motif(s): RRR RRR
+>000000100000000000000
+ (sequence 1414)
+    start position(s): 33
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1421)
+    start position(s): 18
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1434)
+    start position(s): 18
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1445)
+    start position(s): 18
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1471)
+    start position(s): 76
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1474)
+    start position(s): 9
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1483)
+    start position(s): 41
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1504)
+    start position(s): 49
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1511)
+    start position(s): 76 77
+    motif(s): RRR RRR
+>000000100000000000000
+ (sequence 1535)
+    start position(s): 69
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1542)
+    start position(s): 13 37
+    motif(s): RRR RRR
+>000000100000000000000
+ (sequence 1566)
+    start position(s): 26 67
+    motif(s): RRR RRR
+>000000100000000000000
+ (sequence 1579)
+    start position(s): 11
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1580)
+    start position(s): 11
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1582)
+    start position(s): 63
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1599)
+    start position(s): 5
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1605)
+    start position(s): 13 37
+    motif(s): RRR RRR
+>000000100000000000000
+ (sequence 1606)
+    start position(s): 35
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1607)
+    start position(s): 55
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1608)
+    start position(s): 55
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1609)
+    start position(s): 55
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1610)
+    start position(s): 55
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1611)
+    start position(s): 11
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1622)
+    start position(s): 52 58
+    motif(s): RRR RRR
+>000000100000000000000
+ (sequence 1627)
+    start position(s): 43
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1628)
+    start position(s): 43
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1643)
+    start position(s): 51
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1645)
+    start position(s): 21
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1650)
+    start position(s): 36 37
+    motif(s): RRR RRR
+>000000100000000000000
+ (sequence 1662)
+    start position(s): 9
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1668)
+    start position(s): 20
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1672)
+    start position(s): 49
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1730)
+    start position(s): 62
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1751)
+    start position(s): 45
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1754)
+    start position(s): 32
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1763)
+    start position(s): 31
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1905)
+    start position(s): 11
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1907)
+    start position(s): 9
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1909)
+    start position(s): 9
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1910)
+    start position(s): 9
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1926)
+    start position(s): 4
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1974)
+    start position(s): 18
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1988)
+    start position(s): 30
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1992)
+    start position(s): 11
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1993)
+    start position(s): 11
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1994)
+    start position(s): 38
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1997)
+    start position(s): 38
+    motif(s): RRR
+>000000100000000000000
+ (sequence 1999)
+    start position(s): 38
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2000)
+    start position(s): 38
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2001)
+    start position(s): 38
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2003)
+    start position(s): 38
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2005)
+    start position(s): 38
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2007)
+    start position(s): 38
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2008)
+    start position(s): 38
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2009)
+    start position(s): 38
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2010)
+    start position(s): 38
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2011)
+    start position(s): 38
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2012)
+    start position(s): 38
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2013)
+    start position(s): 38
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2016)
+    start position(s): 38
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2021)
+    start position(s): 38
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2025)
+    start position(s): 38
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2035)
+    start position(s): 4
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2036)
+    start position(s): 4
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2037)
+    start position(s): 4
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2065)
+    start position(s): 23
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2104)
+    start position(s): 32
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2105)
+    start position(s): 32
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2135)
+    start position(s): 61
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2140)
+    start position(s): 44
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2151)
+    start position(s): 25
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2159)
+    start position(s): 59
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2163)
+    start position(s): 64
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2187)
+    start position(s): 43 55
+    motif(s): RRR RRR
+>000000100000000000000
+ (sequence 2209)
+    start position(s): 63
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2233)
+    start position(s): 55
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2268)
+    start position(s): 63
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2280)
+    start position(s): 6
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2305)
+    start position(s): 31
+    motif(s): RRR
+>000000100000000000000
+ (sequence 2306)
+    start position(s): 31
+    motif(s): RRR
+147 positive sequences contain the motif
+
+0 negative sequences contain the motif

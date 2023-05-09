@@ -1,0 +1,259 @@
+>000000000000010000000
+ (sequence 69)
+    start position(s): 18
+    motif(s): QEK
+>000000000000010000000
+ (sequence 80)
+    start position(s): 22
+    motif(s): QEK
+>000000000000010000000
+ (sequence 112)
+    start position(s): 22
+    motif(s): QEK
+>000000000000010000000
+ (sequence 114)
+    start position(s): 24
+    motif(s): QEK
+>000000000000010000000
+ (sequence 115)
+    start position(s): 24
+    motif(s): QEK
+>000000000000010000000
+ (sequence 133)
+    start position(s): 17
+    motif(s): QEK
+>000000000000010000000
+ (sequence 306)
+    start position(s): 32
+    motif(s): QEK
+>000000000000010000000
+ (sequence 333)
+    start position(s): 20
+    motif(s): QEK
+>000000000000010000000
+ (sequence 390)
+    start position(s): 13
+    motif(s): QEK
+>000000000000010000000
+ (sequence 418)
+    start position(s): 25
+    motif(s): QEK
+>000000000000010000000
+ (sequence 424)
+    start position(s): 28
+    motif(s): QEK
+>000000000000010000000
+ (sequence 425)
+    start position(s): 28
+    motif(s): QEK
+>000000000000010000000
+ (sequence 426)
+    start position(s): 28
+    motif(s): QEK
+>000000000000010000000
+ (sequence 427)
+    start position(s): 28
+    motif(s): QEK
+>000000000000010000000
+ (sequence 434)
+    start position(s): 29
+    motif(s): QEK
+>000000000000010000000
+ (sequence 436)
+    start position(s): 30
+    motif(s): QEK
+>000000000000010000000
+ (sequence 438)
+    start position(s): 18
+    motif(s): QEK
+>000000000000010000000
+ (sequence 446)
+    start position(s): 17
+    motif(s): QEK
+>000000000000010000000
+ (sequence 470)
+    start position(s): 25
+    motif(s): QEK
+>000000000000010000000
+ (sequence 473)
+    start position(s): 33
+    motif(s): QEK
+>000000000000010000000
+ (sequence 497)
+    start position(s): 21
+    motif(s): QEK
+>000000000000010000000
+ (sequence 566)
+    start position(s): 14
+    motif(s): QEK
+>000000000000010000000
+ (sequence 625)
+    start position(s): 15
+    motif(s): QEK
+>000000000000010000000
+ (sequence 629)
+    start position(s): 28
+    motif(s): QEK
+>000000000000010000000
+ (sequence 630)
+    start position(s): 28
+    motif(s): QEK
+>000000000000010000000
+ (sequence 631)
+    start position(s): 28
+    motif(s): QEK
+>000000000000010000000
+ (sequence 632)
+    start position(s): 28
+    motif(s): QEK
+>000000000000010000000
+ (sequence 633)
+    start position(s): 28
+    motif(s): QEK
+>000000000000010000000
+ (sequence 634)
+    start position(s): 28
+    motif(s): QEK
+>000000000000010000000
+ (sequence 635)
+    start position(s): 28
+    motif(s): QEK
+>000000000000010000000
+ (sequence 636)
+    start position(s): 28
+    motif(s): QEK
+>000000000000010000000
+ (sequence 637)
+    start position(s): 28
+    motif(s): QEK
+>000000000000010000000
+ (sequence 638)
+    start position(s): 28
+    motif(s): QEK
+>000000000000010000000
+ (sequence 639)
+    start position(s): 28
+    motif(s): QEK
+>000000000000010000000
+ (sequence 640)
+    start position(s): 28
+    motif(s): QEK
+>000000000000010000000
+ (sequence 641)
+    start position(s): 28
+    motif(s): QEK
+>000000000000010000000
+ (sequence 643)
+    start position(s): 27
+    motif(s): QEK
+>000000000000010000000
+ (sequence 653)
+    start position(s): 19
+    motif(s): QEK
+>000000000000010000000
+ (sequence 674)
+    start position(s): 23
+    motif(s): QEK
+>000000000000010000000
+ (sequence 676)
+    start position(s): 23
+    motif(s): QEK
+>000000000000010000000
+ (sequence 681)
+    start position(s): 26
+    motif(s): QEK
+>000000000000010000000
+ (sequence 682)
+    start position(s): 26
+    motif(s): QEK
+>000000000000010000000
+ (sequence 683)
+    start position(s): 26
+    motif(s): QEK
+>000000000000010000000
+ (sequence 685)
+    start position(s): 31
+    motif(s): QEK
+>000000000000010000000
+ (sequence 686)
+    start position(s): 19
+    motif(s): QEK
+>000000000000010000000
+ (sequence 687)
+    start position(s): 26
+    motif(s): QEK
+>000000000000010000000
+ (sequence 716)
+    start position(s): 16
+    motif(s): QEK
+>000000000000010000000
+ (sequence 717)
+    start position(s): 16
+    motif(s): QEK
+>000000000000010000000
+ (sequence 718)
+    start position(s): 16
+    motif(s): QEK
+>000000000000010000000
+ (sequence 719)
+    start position(s): 16
+    motif(s): QEK
+>000000000000010000000
+ (sequence 720)
+    start position(s): 16
+    motif(s): QEK
+>000000000000010000000
+ (sequence 721)
+    start position(s): 16
+    motif(s): QEK
+>000000000000010000000
+ (sequence 722)
+    start position(s): 16
+    motif(s): QEK
+>000000000000010000000
+ (sequence 723)
+    start position(s): 16
+    motif(s): QEK
+>000000000000010000000
+ (sequence 724)
+    start position(s): 16
+    motif(s): QEK
+>000000000000010000000
+ (sequence 725)
+    start position(s): 16
+    motif(s): QEK
+>000000000000010000000
+ (sequence 726)
+    start position(s): 16
+    motif(s): QEK
+>000000000000010000000
+ (sequence 727)
+    start position(s): 16
+    motif(s): QEK
+>000000000000010000000
+ (sequence 728)
+    start position(s): 16
+    motif(s): QEK
+>000000000000010000000
+ (sequence 729)
+    start position(s): 16
+    motif(s): QEK
+>000000000000010000000
+ (sequence 730)
+    start position(s): 16
+    motif(s): QEK
+>000000000000010000000
+ (sequence 731)
+    start position(s): 16
+    motif(s): QEK
+>000000000000010000000
+ (sequence 732)
+    start position(s): 16
+    motif(s): QEK
+>000000000000010000000
+ (sequence 733)
+    start position(s): 16
+    motif(s): QEK
+64 positive sequences contain the motif
+
+0 negative sequences contain the motif

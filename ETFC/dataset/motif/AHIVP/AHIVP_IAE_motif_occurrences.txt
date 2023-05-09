@@ -1,0 +1,51 @@
+>000000010000000000000
+ (sequence 46)
+    start position(s): 9
+    motif(s): IAE
+>000000010000000000000
+ (sequence 48)
+    start position(s): 21
+    motif(s): IAE
+>000000010000000000000
+ (sequence 49)
+    start position(s): 21
+    motif(s): IAE
+>000000010000000000000
+ (sequence 50)
+    start position(s): 21
+    motif(s): IAE
+>000000010000000000000
+ (sequence 52)
+    start position(s): 21
+    motif(s): IAE
+>000000010000000000000
+ (sequence 53)
+    start position(s): 18
+    motif(s): IAE
+>000000010000000000000
+ (sequence 56)
+    start position(s): 21
+    motif(s): IAE
+>000000010000000000000
+ (sequence 57)
+    start position(s): 21
+    motif(s): IAE
+>000000010000000000000
+ (sequence 58)
+    start position(s): 21
+    motif(s): IAE
+>000000010000000000000
+ (sequence 59)
+    start position(s): 21
+    motif(s): IAE
+>000000010000000000000
+ (sequence 60)
+    start position(s): 21
+    motif(s): IAE
+>000000010000000000000
+ (sequence 61)
+    start position(s): 21
+    motif(s): IAE
+12 positive sequences contain the motif
+
+0 negative sequences contain the motif

@@ -1,0 +1,913 @@
+MOTIF:  C G E S
+******
+>000000010000000000000
+ (sequence 27)
+    start position(s): 4
+    motif(s): CGES
+>000000010000000000000
+ (sequence 29)
+    start position(s): 7
+    motif(s): CGES
+>000000010000000000000
+ (sequence 41)
+    start position(s): 4
+    motif(s): CGES
+>000000010000000000000
+ (sequence 42)
+    start position(s): 4
+    motif(s): CGES
+>000000010000000000000
+ (sequence 43)
+    start position(s): 4
+    motif(s): CGES
+>000000010000000000000
+ (sequence 44)
+    start position(s): 4
+    motif(s): CGES
+>000000010000000000000
+ (sequence 70)
+    start position(s): 6
+    motif(s): CGES
+>000000010000000000000
+ (sequence 72)
+    start position(s): 4
+    motif(s): CGES
+>000000010000000000000
+ (sequence 75)
+    start position(s): 5
+    motif(s): CGES
+>000000010000000000000
+ (sequence 76)
+    start position(s): 5
+    motif(s): CGES
+>000000010000000000000
+ (sequence 77)
+    start position(s): 4
+    motif(s): CGES
+>000000010000000000000
+ (sequence 83)
+    start position(s): 4
+    motif(s): CGES
+>000000010000000000000
+ (sequence 84)
+    start position(s): 4
+    motif(s): CGES
+>000000010000000000000
+ (sequence 88)
+    start position(s): 9
+    motif(s): CGES
+>000000010000000000000
+ (sequence 101)
+    start position(s): 4
+    motif(s): CGES
+15 positive sequences contain the motif
+
+0 negative sequences contain the motif
+
+
+MOTIF:  C G E S C
+******
+>000000010000000000000
+ (sequence 27)
+    start position(s): 4
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 29)
+    start position(s): 7
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 41)
+    start position(s): 4
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 42)
+    start position(s): 4
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 43)
+    start position(s): 4
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 44)
+    start position(s): 4
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 70)
+    start position(s): 6
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 72)
+    start position(s): 4
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 75)
+    start position(s): 5
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 76)
+    start position(s): 5
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 77)
+    start position(s): 4
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 83)
+    start position(s): 4
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 84)
+    start position(s): 4
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 88)
+    start position(s): 9
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 101)
+    start position(s): 4
+    motif(s): CGESC
+15 positive sequences contain the motif
+
+0 negative sequences contain the motif
+
+
+MOTIF:  G C S C
+******
+>000000010000000000000
+ (sequence 27)
+    start position(s): 19
+    motif(s): GCSC
+>000000010000000000000
+ (sequence 29)
+    start position(s): 20
+    motif(s): GCSC
+>000000010000000000000
+ (sequence 30)
+    start position(s): 20
+    motif(s): GCSC
+>000000010000000000000
+ (sequence 40)
+    start position(s): 20
+    motif(s): GCSC
+>000000010000000000000
+ (sequence 41)
+    start position(s): 19
+    motif(s): GCSC
+>000000010000000000000
+ (sequence 42)
+    start position(s): 19
+    motif(s): GCSC
+>000000010000000000000
+ (sequence 43)
+    start position(s): 19
+    motif(s): GCSC
+>000000010000000000000
+ (sequence 44)
+    start position(s): 19
+    motif(s): GCSC
+>000000010000000000000
+ (sequence 63)
+    start position(s): 18
+    motif(s): GCSC
+>000000010000000000000
+ (sequence 70)
+    start position(s): 19
+    motif(s): GCSC
+>000000010000000000000
+ (sequence 75)
+    start position(s): 20
+    motif(s): GCSC
+>000000010000000000000
+ (sequence 76)
+    start position(s): 20
+    motif(s): GCSC
+>000000010000000000000
+ (sequence 77)
+    start position(s): 19
+    motif(s): GCSC
+>000000010000000000000
+ (sequence 88)
+    start position(s): 24
+    motif(s): GCSC
+>000000010000000000000
+ (sequence 101)
+    start position(s): 20
+    motif(s): GCSC
+15 positive sequences contain the motif
+
+0 negative sequences contain the motif
+
+
+MOTIF:  G E S C
+******
+>000000010000000000000
+ (sequence 27)
+    start position(s): 5
+    motif(s): GESC
+>000000010000000000000
+ (sequence 29)
+    start position(s): 8
+    motif(s): GESC
+>000000010000000000000
+ (sequence 41)
+    start position(s): 5
+    motif(s): GESC
+>000000010000000000000
+ (sequence 42)
+    start position(s): 5
+    motif(s): GESC
+>000000010000000000000
+ (sequence 43)
+    start position(s): 5
+    motif(s): GESC
+>000000010000000000000
+ (sequence 44)
+    start position(s): 5
+    motif(s): GESC
+>000000010000000000000
+ (sequence 70)
+    start position(s): 7
+    motif(s): GESC
+>000000010000000000000
+ (sequence 72)
+    start position(s): 5
+    motif(s): GESC
+>000000010000000000000
+ (sequence 75)
+    start position(s): 6
+    motif(s): GESC
+>000000010000000000000
+ (sequence 76)
+    start position(s): 6
+    motif(s): GESC
+>000000010000000000000
+ (sequence 77)
+    start position(s): 5
+    motif(s): GESC
+>000000010000000000000
+ (sequence 83)
+    start position(s): 5
+    motif(s): GESC
+>000000010000000000000
+ (sequence 84)
+    start position(s): 5
+    motif(s): GESC
+>000000010000000000000
+ (sequence 88)
+    start position(s): 10
+    motif(s): GESC
+>000000010000000000000
+ (sequence 101)
+    start position(s): 5
+    motif(s): GESC
+15 positive sequences contain the motif
+
+0 negative sequences contain the motif
+
+
+MOTIF:  S C V
+******
+>000000010000000000000
+ (sequence 27)
+    start position(s): 7
+    motif(s): SCV
+>000000010000000000000
+ (sequence 40)
+    start position(s): 7
+    motif(s): SCV
+>000000010000000000000
+ (sequence 41)
+    start position(s): 7
+    motif(s): SCV
+>000000010000000000000
+ (sequence 42)
+    start position(s): 7
+    motif(s): SCV
+>000000010000000000000
+ (sequence 43)
+    start position(s): 7
+    motif(s): SCV
+>000000010000000000000
+ (sequence 44)
+    start position(s): 7
+    motif(s): SCV
+>000000010000000000000
+ (sequence 75)
+    start position(s): 8
+    motif(s): SCV
+>000000010000000000000
+ (sequence 76)
+    start position(s): 8
+    motif(s): SCV
+>000000010000000000000
+ (sequence 77)
+    start position(s): 7
+    motif(s): SCV
+>000000010000000000000
+ (sequence 83)
+    start position(s): 7
+    motif(s): SCV
+>000000010000000000000
+ (sequence 84)
+    start position(s): 7
+    motif(s): SCV
+>000000010000000000000
+ (sequence 88)
+    start position(s): 12
+    motif(s): SCV
+>000000010000000000000
+ (sequence 99)
+    start position(s): 100
+    motif(s): SCV
+13 positive sequences contain the motif
+
+0 negative sequences contain the motif
+
+
+MOTIF:  E S C V
+******
+>000000010000000000000
+ (sequence 27)
+    start position(s): 6
+    motif(s): ESCV
+>000000010000000000000
+ (sequence 40)
+    start position(s): 6
+    motif(s): ESCV
+>000000010000000000000
+ (sequence 41)
+    start position(s): 6
+    motif(s): ESCV
+>000000010000000000000
+ (sequence 42)
+    start position(s): 6
+    motif(s): ESCV
+>000000010000000000000
+ (sequence 43)
+    start position(s): 6
+    motif(s): ESCV
+>000000010000000000000
+ (sequence 44)
+    start position(s): 6
+    motif(s): ESCV
+>000000010000000000000
+ (sequence 75)
+    start position(s): 7
+    motif(s): ESCV
+>000000010000000000000
+ (sequence 76)
+    start position(s): 7
+    motif(s): ESCV
+>000000010000000000000
+ (sequence 77)
+    start position(s): 6
+    motif(s): ESCV
+>000000010000000000000
+ (sequence 83)
+    start position(s): 6
+    motif(s): ESCV
+>000000010000000000000
+ (sequence 84)
+    start position(s): 6
+    motif(s): ESCV
+>000000010000000000000
+ (sequence 88)
+    start position(s): 11
+    motif(s): ESCV
+12 positive sequences contain the motif
+
+0 negative sequences contain the motif
+
+
+MOTIF:  I A E
+******
+>000000010000000000000
+ (sequence 46)
+    start position(s): 9
+    motif(s): IAE
+>000000010000000000000
+ (sequence 48)
+    start position(s): 21
+    motif(s): IAE
+>000000010000000000000
+ (sequence 49)
+    start position(s): 21
+    motif(s): IAE
+>000000010000000000000
+ (sequence 50)
+    start position(s): 21
+    motif(s): IAE
+>000000010000000000000
+ (sequence 52)
+    start position(s): 21
+    motif(s): IAE
+>000000010000000000000
+ (sequence 53)
+    start position(s): 18
+    motif(s): IAE
+>000000010000000000000
+ (sequence 56)
+    start position(s): 21
+    motif(s): IAE
+>000000010000000000000
+ (sequence 57)
+    start position(s): 21
+    motif(s): IAE
+>000000010000000000000
+ (sequence 58)
+    start position(s): 21
+    motif(s): IAE
+>000000010000000000000
+ (sequence 59)
+    start position(s): 21
+    motif(s): IAE
+>000000010000000000000
+ (sequence 60)
+    start position(s): 21
+    motif(s): IAE
+>000000010000000000000
+ (sequence 61)
+    start position(s): 21
+    motif(s): IAE
+12 positive sequences contain the motif
+
+0 negative sequences contain the motif
+
+
+MOTIF:  I P C
+******
+>000000010000000000000
+ (sequence 27)
+    start position(s): 11
+    motif(s): IPC
+>000000010000000000000
+ (sequence 40)
+    start position(s): 2 11
+    motif(s): IPC IPC
+>000000010000000000000
+ (sequence 41)
+    start position(s): 2 11
+    motif(s): IPC IPC
+>000000010000000000000
+ (sequence 42)
+    start position(s): 2 11
+    motif(s): IPC IPC
+>000000010000000000000
+ (sequence 43)
+    start position(s): 2 11
+    motif(s): IPC IPC
+>000000010000000000000
+ (sequence 44)
+    start position(s): 2 11
+    motif(s): IPC IPC
+>000000010000000000000
+ (sequence 75)
+    start position(s): 3 12
+    motif(s): IPC IPC
+>000000010000000000000
+ (sequence 76)
+    start position(s): 3 12
+    motif(s): IPC IPC
+>000000010000000000000
+ (sequence 77)
+    start position(s): 11
+    motif(s): IPC
+>000000010000000000000
+ (sequence 83)
+    start position(s): 2 11
+    motif(s): IPC IPC
+>000000010000000000000
+ (sequence 84)
+    start position(s): 2 11
+    motif(s): IPC IPC
+>000000010000000000000
+ (sequence 88)
+    start position(s): 7 16
+    motif(s): IPC IPC
+12 positive sequences contain the motif
+
+0 negative sequences contain the motif
+
+
+MOTIF:  K V C Y
+******
+>000000010000000000000
+ (sequence 27)
+    start position(s): 25
+    motif(s): KVCY
+>000000010000000000000
+ (sequence 40)
+    start position(s): 26
+    motif(s): KVCY
+>000000010000000000000
+ (sequence 41)
+    start position(s): 25
+    motif(s): KVCY
+>000000010000000000000
+ (sequence 42)
+    start position(s): 25
+    motif(s): KVCY
+>000000010000000000000
+ (sequence 43)
+    start position(s): 25
+    motif(s): KVCY
+>000000010000000000000
+ (sequence 44)
+    start position(s): 25
+    motif(s): KVCY
+>000000010000000000000
+ (sequence 75)
+    start position(s): 26
+    motif(s): KVCY
+>000000010000000000000
+ (sequence 76)
+    start position(s): 26
+    motif(s): KVCY
+>000000010000000000000
+ (sequence 83)
+    start position(s): 25
+    motif(s): KVCY
+>000000010000000000000
+ (sequence 84)
+    start position(s): 26
+    motif(s): KVCY
+>000000010000000000000
+ (sequence 88)
+    start position(s): 1
+    motif(s): KVCY
+>000000010000000000000
+ (sequence 101)
+    start position(s): 26
+    motif(s): KVCY
+12 positive sequences contain the motif
+
+0 negative sequences contain the motif
+
+
+MOTIF:  C G E S C V
+******
+>000000010000000000000
+ (sequence 27)
+    start position(s): 4
+    motif(s): CGESCV
+>000000010000000000000
+ (sequence 41)
+    start position(s): 4
+    motif(s): CGESCV
+>000000010000000000000
+ (sequence 42)
+    start position(s): 4
+    motif(s): CGESCV
+>000000010000000000000
+ (sequence 43)
+    start position(s): 4
+    motif(s): CGESCV
+>000000010000000000000
+ (sequence 44)
+    start position(s): 4
+    motif(s): CGESCV
+>000000010000000000000
+ (sequence 75)
+    start position(s): 5
+    motif(s): CGESCV
+>000000010000000000000
+ (sequence 76)
+    start position(s): 5
+    motif(s): CGESCV
+>000000010000000000000
+ (sequence 77)
+    start position(s): 4
+    motif(s): CGESCV
+>000000010000000000000
+ (sequence 83)
+    start position(s): 4
+    motif(s): CGESCV
+>000000010000000000000
+ (sequence 84)
+    start position(s): 4
+    motif(s): CGESCV
+>000000010000000000000
+ (sequence 88)
+    start position(s): 9
+    motif(s): CGESCV
+11 positive sequences contain the motif
+
+0 negative sequences contain the motif
+
+
+MOTIF:  G E S C V
+******
+>000000010000000000000
+ (sequence 27)
+    start position(s): 5
+    motif(s): GESCV
+>000000010000000000000
+ (sequence 41)
+    start position(s): 5
+    motif(s): GESCV
+>000000010000000000000
+ (sequence 42)
+    start position(s): 5
+    motif(s): GESCV
+>000000010000000000000
+ (sequence 43)
+    start position(s): 5
+    motif(s): GESCV
+>000000010000000000000
+ (sequence 44)
+    start position(s): 5
+    motif(s): GESCV
+>000000010000000000000
+ (sequence 75)
+    start position(s): 6
+    motif(s): GESCV
+>000000010000000000000
+ (sequence 76)
+    start position(s): 6
+    motif(s): GESCV
+>000000010000000000000
+ (sequence 77)
+    start position(s): 5
+    motif(s): GESCV
+>000000010000000000000
+ (sequence 83)
+    start position(s): 5
+    motif(s): GESCV
+>000000010000000000000
+ (sequence 84)
+    start position(s): 5
+    motif(s): GESCV
+>000000010000000000000
+ (sequence 88)
+    start position(s): 10
+    motif(s): GESCV
+11 positive sequences contain the motif
+
+0 negative sequences contain the motif
+
+
+MOTIF:  P C G E
+******
+>000000010000000000000
+ (sequence 27)
+    start position(s): 3
+    motif(s): PCGE
+>000000010000000000000
+ (sequence 41)
+    start position(s): 3
+    motif(s): PCGE
+>000000010000000000000
+ (sequence 42)
+    start position(s): 3
+    motif(s): PCGE
+>000000010000000000000
+ (sequence 43)
+    start position(s): 3
+    motif(s): PCGE
+>000000010000000000000
+ (sequence 44)
+    start position(s): 3
+    motif(s): PCGE
+>000000010000000000000
+ (sequence 75)
+    start position(s): 4
+    motif(s): PCGE
+>000000010000000000000
+ (sequence 76)
+    start position(s): 4
+    motif(s): PCGE
+>000000010000000000000
+ (sequence 77)
+    start position(s): 3
+    motif(s): PCGE
+>000000010000000000000
+ (sequence 83)
+    start position(s): 3
+    motif(s): PCGE
+>000000010000000000000
+ (sequence 84)
+    start position(s): 3
+    motif(s): PCGE
+>000000010000000000000
+ (sequence 88)
+    start position(s): 8
+    motif(s): PCGE
+11 positive sequences contain the motif
+
+0 negative sequences contain the motif
+
+
+MOTIF:  P C G E S
+******
+>000000010000000000000
+ (sequence 27)
+    start position(s): 3
+    motif(s): PCGES
+>000000010000000000000
+ (sequence 41)
+    start position(s): 3
+    motif(s): PCGES
+>000000010000000000000
+ (sequence 42)
+    start position(s): 3
+    motif(s): PCGES
+>000000010000000000000
+ (sequence 43)
+    start position(s): 3
+    motif(s): PCGES
+>000000010000000000000
+ (sequence 44)
+    start position(s): 3
+    motif(s): PCGES
+>000000010000000000000
+ (sequence 75)
+    start position(s): 4
+    motif(s): PCGES
+>000000010000000000000
+ (sequence 76)
+    start position(s): 4
+    motif(s): PCGES
+>000000010000000000000
+ (sequence 77)
+    start position(s): 3
+    motif(s): PCGES
+>000000010000000000000
+ (sequence 83)
+    start position(s): 3
+    motif(s): PCGES
+>000000010000000000000
+ (sequence 84)
+    start position(s): 3
+    motif(s): PCGES
+>000000010000000000000
+ (sequence 88)
+    start position(s): 8
+    motif(s): PCGES
+11 positive sequences contain the motif
+
+0 negative sequences contain the motif
+
+
+MOTIF:  P C G E S C
+******
+>000000010000000000000
+ (sequence 27)
+    start position(s): 3
+    motif(s): PCGESC
+>000000010000000000000
+ (sequence 41)
+    start position(s): 3
+    motif(s): PCGESC
+>000000010000000000000
+ (sequence 42)
+    start position(s): 3
+    motif(s): PCGESC
+>000000010000000000000
+ (sequence 43)
+    start position(s): 3
+    motif(s): PCGESC
+>000000010000000000000
+ (sequence 44)
+    start position(s): 3
+    motif(s): PCGESC
+>000000010000000000000
+ (sequence 75)
+    start position(s): 4
+    motif(s): PCGESC
+>000000010000000000000
+ (sequence 76)
+    start position(s): 4
+    motif(s): PCGESC
+>000000010000000000000
+ (sequence 77)
+    start position(s): 3
+    motif(s): PCGESC
+>000000010000000000000
+ (sequence 83)
+    start position(s): 3
+    motif(s): PCGESC
+>000000010000000000000
+ (sequence 84)
+    start position(s): 3
+    motif(s): PCGESC
+>000000010000000000000
+ (sequence 88)
+    start position(s): 8
+    motif(s): PCGESC
+11 positive sequences contain the motif
+
+0 negative sequences contain the motif
+
+
+MOTIF:  P C G E S C V
+******
+>000000010000000000000
+ (sequence 27)
+    start position(s): 3
+    motif(s): PCGESCV
+>000000010000000000000
+ (sequence 41)
+    start position(s): 3
+    motif(s): PCGESCV
+>000000010000000000000
+ (sequence 42)
+    start position(s): 3
+    motif(s): PCGESCV
+>000000010000000000000
+ (sequence 43)
+    start position(s): 3
+    motif(s): PCGESCV
+>000000010000000000000
+ (sequence 44)
+    start position(s): 3
+    motif(s): PCGESCV
+>000000010000000000000
+ (sequence 75)
+    start position(s): 4
+    motif(s): PCGESCV
+>000000010000000000000
+ (sequence 76)
+    start position(s): 4
+    motif(s): PCGESCV
+>000000010000000000000
+ (sequence 77)
+    start position(s): 3
+    motif(s): PCGESCV
+>000000010000000000000
+ (sequence 83)
+    start position(s): 3
+    motif(s): PCGESCV
+>000000010000000000000
+ (sequence 84)
+    start position(s): 3
+    motif(s): PCGESCV
+>000000010000000000000
+ (sequence 88)
+    start position(s): 8
+    motif(s): PCGESCV
+11 positive sequences contain the motif
+
+0 negative sequences contain the motif
+
+
+MOTIF:  P H V
+******
+>000000010000000000000
+ (sequence 47)
+    start position(s): 15
+    motif(s): PHV
+>000000010000000000000
+ (sequence 48)
+    start position(s): 15
+    motif(s): PHV
+>000000010000000000000
+ (sequence 49)
+    start position(s): 15
+    motif(s): PHV
+>000000010000000000000
+ (sequence 50)
+    start position(s): 15
+    motif(s): PHV
+>000000010000000000000
+ (sequence 52)
+    start position(s): 15
+    motif(s): PHV
+>000000010000000000000
+ (sequence 56)
+    start position(s): 15
+    motif(s): PHV
+>000000010000000000000
+ (sequence 57)
+    start position(s): 15
+    motif(s): PHV
+>000000010000000000000
+ (sequence 58)
+    start position(s): 15
+    motif(s): PHV
+>000000010000000000000
+ (sequence 59)
+    start position(s): 15
+    motif(s): PHV
+>000000010000000000000
+ (sequence 60)
+    start position(s): 15
+    motif(s): PHV
+>000000010000000000000
+ (sequence 61)
+    start position(s): 15
+    motif(s): PHV
+11 positive sequences contain the motif
+
+0 negative sequences contain the motif
+
+
+
+
+************************************
+
+COVERAGE
+********
+000000010000000000000 (198 motifs match)
+
+1 sequences covered in total

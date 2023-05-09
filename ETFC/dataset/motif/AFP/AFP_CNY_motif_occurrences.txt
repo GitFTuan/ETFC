@@ -1,0 +1,491 @@
+>000000100000000000000
+ (sequence 132)
+    start position(s): 6
+    motif(s): CNY
+>000000100000000000000
+ (sequence 133)
+    start position(s): 6
+    motif(s): CNY
+>000000100000000000000
+ (sequence 134)
+    start position(s): 6
+    motif(s): CNY
+>000000100000000000000
+ (sequence 135)
+    start position(s): 6
+    motif(s): CNY
+>000000100000000000000
+ (sequence 136)
+    start position(s): 6
+    motif(s): CNY
+>000000100000000000000
+ (sequence 137)
+    start position(s): 6
+    motif(s): CNY
+>000000100000000000000
+ (sequence 138)
+    start position(s): 6
+    motif(s): CNY
+>000000100000000000000
+ (sequence 201)
+    start position(s): 12
+    motif(s): CNY
+>000000100000000000000
+ (sequence 204)
+    start position(s): 1
+    motif(s): CNY
+>000000100000000000000
+ (sequence 205)
+    start position(s): 1
+    motif(s): CNY
+>000000100000000000000
+ (sequence 206)
+    start position(s): 1
+    motif(s): CNY
+>000000100000000000000
+ (sequence 207)
+    start position(s): 1
+    motif(s): CNY
+>000000100000000000000
+ (sequence 310)
+    start position(s): 8
+    motif(s): CNY
+>000000100000000000000
+ (sequence 311)
+    start position(s): 8
+    motif(s): CNY
+>000000100000000000000
+ (sequence 312)
+    start position(s): 8
+    motif(s): CNY
+>000000100000000000000
+ (sequence 313)
+    start position(s): 8
+    motif(s): CNY
+>000000100000000000000
+ (sequence 314)
+    start position(s): 8
+    motif(s): CNY
+>000000100000000000000
+ (sequence 315)
+    start position(s): 8
+    motif(s): CNY
+>000000100000000000000
+ (sequence 316)
+    start position(s): 8
+    motif(s): CNY
+>000000100000000000000
+ (sequence 317)
+    start position(s): 8
+    motif(s): CNY
+>000000100000000000000
+ (sequence 318)
+    start position(s): 8
+    motif(s): CNY
+>000000100000000000000
+ (sequence 746)
+    start position(s): 3
+    motif(s): CNY
+>000000100000000000000
+ (sequence 747)
+    start position(s): 3
+    motif(s): CNY
+>000000100000000000000
+ (sequence 748)
+    start position(s): 3
+    motif(s): CNY
+>000000100000000000000
+ (sequence 749)
+    start position(s): 3
+    motif(s): CNY
+>000000100000000000000
+ (sequence 805)
+    start position(s): 4
+    motif(s): CNY
+>000000100000000000000
+ (sequence 806)
+    start position(s): 4
+    motif(s): CNY
+>000000100000000000000
+ (sequence 807)
+    start position(s): 4
+    motif(s): CNY
+>000000100000000000000
+ (sequence 808)
+    start position(s): 4
+    motif(s): CNY
+>000000100000000000000
+ (sequence 809)
+    start position(s): 4
+    motif(s): CNY
+>000000100000000000000
+ (sequence 810)
+    start position(s): 4
+    motif(s): CNY
+>000000100000000000000
+ (sequence 889)
+    start position(s): 11
+    motif(s): CNY
+>000000100000000000000
+ (sequence 890)
+    start position(s): 11
+    motif(s): CNY
+>000000100000000000000
+ (sequence 891)
+    start position(s): 11
+    motif(s): CNY
+>000000100000000000000
+ (sequence 892)
+    start position(s): 11
+    motif(s): CNY
+>000000100000000000000
+ (sequence 893)
+    start position(s): 11
+    motif(s): CNY
+>000000100000000000000
+ (sequence 894)
+    start position(s): 11
+    motif(s): CNY
+>000000100000000000000
+ (sequence 895)
+    start position(s): 11
+    motif(s): CNY
+>000000100000000000000
+ (sequence 896)
+    start position(s): 11
+    motif(s): CNY
+>000000100000000000000
+ (sequence 916)
+    start position(s): 7
+    motif(s): CNY
+>000000100000000000000
+ (sequence 917)
+    start position(s): 7
+    motif(s): CNY
+>000000100000000000000
+ (sequence 918)
+    start position(s): 7
+    motif(s): CNY
+>000000100000000000000
+ (sequence 919)
+    start position(s): 7
+    motif(s): CNY
+>000000100000000000000
+ (sequence 920)
+    start position(s): 7
+    motif(s): CNY
+>000000100000000000000
+ (sequence 921)
+    start position(s): 7
+    motif(s): CNY
+>000000100000000000000
+ (sequence 922)
+    start position(s): 7
+    motif(s): CNY
+>000000100000000000000
+ (sequence 923)
+    start position(s): 7
+    motif(s): CNY
+>000000100000000000000
+ (sequence 924)
+    start position(s): 7
+    motif(s): CNY
+>000000100000000000000
+ (sequence 941)
+    start position(s): 35
+    motif(s): CNY
+>000000100000000000000
+ (sequence 942)
+    start position(s): 35
+    motif(s): CNY
+>000000100000000000000
+ (sequence 971)
+    start position(s): 35
+    motif(s): CNY
+>000000100000000000000
+ (sequence 972)
+    start position(s): 35
+    motif(s): CNY
+>000000100000000000000
+ (sequence 976)
+    start position(s): 35
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1037)
+    start position(s): 51
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1066)
+    start position(s): 39
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1067)
+    start position(s): 9
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1068)
+    start position(s): 9
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1069)
+    start position(s): 9
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1070)
+    start position(s): 9
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1071)
+    start position(s): 9
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1072)
+    start position(s): 9
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1073)
+    start position(s): 9
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1074)
+    start position(s): 9
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1570)
+    start position(s): 56
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1675)
+    start position(s): 27
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1709)
+    start position(s): 58
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1714)
+    start position(s): 38
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1762)
+    start position(s): 22
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1781)
+    start position(s): 44
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1792)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1793)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1798)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1799)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1800)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1802)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1803)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1804)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1807)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1808)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1809)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1810)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1813)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1816)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1817)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1818)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1819)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1820)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1821)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1822)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1823)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1824)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1825)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1827)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1828)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1829)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1831)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1832)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1833)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1834)
+    start position(s): 36
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1835)
+    start position(s): 35
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1916)
+    start position(s): 5
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1917)
+    start position(s): 5
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1918)
+    start position(s): 5
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1919)
+    start position(s): 5
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1920)
+    start position(s): 5
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1921)
+    start position(s): 5
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1922)
+    start position(s): 5
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1923)
+    start position(s): 5
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1950)
+    start position(s): 10
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1951)
+    start position(s): 10
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1952)
+    start position(s): 10
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1953)
+    start position(s): 10
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1954)
+    start position(s): 10
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1955)
+    start position(s): 10
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1956)
+    start position(s): 10
+    motif(s): CNY
+>000000100000000000000
+ (sequence 1957)
+    start position(s): 10
+    motif(s): CNY
+>000000100000000000000
+ (sequence 2048)
+    start position(s): 35
+    motif(s): CNY
+>000000100000000000000
+ (sequence 2049)
+    start position(s): 35
+    motif(s): CNY
+>000000100000000000000
+ (sequence 2057)
+    start position(s): 2
+    motif(s): CNY
+>000000100000000000000
+ (sequence 2058)
+    start position(s): 2
+    motif(s): CNY
+>000000100000000000000
+ (sequence 2059)
+    start position(s): 2
+    motif(s): CNY
+>000000100000000000000
+ (sequence 2271)
+    start position(s): 65
+    motif(s): CNY
+122 positive sequences contain the motif
+
+0 negative sequences contain the motif

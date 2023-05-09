@@ -1,0 +1,579 @@
+>000000100000000000000
+ (sequence 38)
+    start position(s): 33
+    motif(s): LKK
+>000000100000000000000
+ (sequence 40)
+    start position(s): 32
+    motif(s): LKK
+>000000100000000000000
+ (sequence 55)
+    start position(s): 35
+    motif(s): LKK
+>000000100000000000000
+ (sequence 58)
+    start position(s): 47
+    motif(s): LKK
+>000000100000000000000
+ (sequence 76)
+    start position(s): 27
+    motif(s): LKK
+>000000100000000000000
+ (sequence 77)
+    start position(s): 26 95
+    motif(s): LKK LKK
+>000000100000000000000
+ (sequence 78)
+    start position(s): 95
+    motif(s): LKK
+>000000100000000000000
+ (sequence 95)
+    start position(s): 46
+    motif(s): LKK
+>000000100000000000000
+ (sequence 105)
+    start position(s): 7
+    motif(s): LKK
+>000000100000000000000
+ (sequence 111)
+    start position(s): 7
+    motif(s): LKK
+>000000100000000000000
+ (sequence 112)
+    start position(s): 7
+    motif(s): LKK
+>000000100000000000000
+ (sequence 113)
+    start position(s): 7
+    motif(s): LKK
+>000000100000000000000
+ (sequence 116)
+    start position(s): 7
+    motif(s): LKK
+>000000100000000000000
+ (sequence 125)
+    start position(s): 9
+    motif(s): LKK
+>000000100000000000000
+ (sequence 141)
+    start position(s): 4
+    motif(s): LKK
+>000000100000000000000
+ (sequence 172)
+    start position(s): 24
+    motif(s): LKK
+>000000100000000000000
+ (sequence 230)
+    start position(s): 13
+    motif(s): LKK
+>000000100000000000000
+ (sequence 236)
+    start position(s): 15
+    motif(s): LKK
+>000000100000000000000
+ (sequence 290)
+    start position(s): 28
+    motif(s): LKK
+>000000100000000000000
+ (sequence 361)
+    start position(s): 21
+    motif(s): LKK
+>000000100000000000000
+ (sequence 367)
+    start position(s): 13
+    motif(s): LKK
+>000000100000000000000
+ (sequence 372)
+    start position(s): 13
+    motif(s): LKK
+>000000100000000000000
+ (sequence 373)
+    start position(s): 14
+    motif(s): LKK
+>000000100000000000000
+ (sequence 395)
+    start position(s): 9 17
+    motif(s): LKK LKK
+>000000100000000000000
+ (sequence 400)
+    start position(s): 7
+    motif(s): LKK
+>000000100000000000000
+ (sequence 417)
+    start position(s): 21
+    motif(s): LKK
+>000000100000000000000
+ (sequence 465)
+    start position(s): 4
+    motif(s): LKK
+>000000100000000000000
+ (sequence 506)
+    start position(s): 7
+    motif(s): LKK
+>000000100000000000000
+ (sequence 527)
+    start position(s): 10
+    motif(s): LKK
+>000000100000000000000
+ (sequence 540)
+    start position(s): 9
+    motif(s): LKK
+>000000100000000000000
+ (sequence 546)
+    start position(s): 6
+    motif(s): LKK
+>000000100000000000000
+ (sequence 613)
+    start position(s): 3
+    motif(s): LKK
+>000000100000000000000
+ (sequence 626)
+    start position(s): 21
+    motif(s): LKK
+>000000100000000000000
+ (sequence 633)
+    start position(s): 8
+    motif(s): LKK
+>000000100000000000000
+ (sequence 690)
+    start position(s): 10
+    motif(s): LKK
+>000000100000000000000
+ (sequence 691)
+    start position(s): 29
+    motif(s): LKK
+>000000100000000000000
+ (sequence 695)
+    start position(s): 15
+    motif(s): LKK
+>000000100000000000000
+ (sequence 697)
+    start position(s): 14
+    motif(s): LKK
+>000000100000000000000
+ (sequence 726)
+    start position(s): 47
+    motif(s): LKK
+>000000100000000000000
+ (sequence 736)
+    start position(s): 14
+    motif(s): LKK
+>000000100000000000000
+ (sequence 742)
+    start position(s): 4
+    motif(s): LKK
+>000000100000000000000
+ (sequence 773)
+    start position(s): 10
+    motif(s): LKK
+>000000100000000000000
+ (sequence 779)
+    start position(s): 10
+    motif(s): LKK
+>000000100000000000000
+ (sequence 780)
+    start position(s): 10
+    motif(s): LKK
+>000000100000000000000
+ (sequence 785)
+    start position(s): 13
+    motif(s): LKK
+>000000100000000000000
+ (sequence 786)
+    start position(s): 6
+    motif(s): LKK
+>000000100000000000000
+ (sequence 787)
+    start position(s): 13
+    motif(s): LKK
+>000000100000000000000
+ (sequence 792)
+    start position(s): 3
+    motif(s): LKK
+>000000100000000000000
+ (sequence 793)
+    start position(s): 3
+    motif(s): LKK
+>000000100000000000000
+ (sequence 796)
+    start position(s): 6
+    motif(s): LKK
+>000000100000000000000
+ (sequence 816)
+    start position(s): 44
+    motif(s): LKK
+>000000100000000000000
+ (sequence 832)
+    start position(s): 44
+    motif(s): LKK
+>000000100000000000000
+ (sequence 847)
+    start position(s): 51
+    motif(s): LKK
+>000000100000000000000
+ (sequence 860)
+    start position(s): 11
+    motif(s): LKK
+>000000100000000000000
+ (sequence 861)
+    start position(s): 11
+    motif(s): LKK
+>000000100000000000000
+ (sequence 862)
+    start position(s): 11
+    motif(s): LKK
+>000000100000000000000
+ (sequence 943)
+    start position(s): 6
+    motif(s): LKK
+>000000100000000000000
+ (sequence 945)
+    start position(s): 6
+    motif(s): LKK
+>000000100000000000000
+ (sequence 950)
+    start position(s): 7
+    motif(s): LKK
+>000000100000000000000
+ (sequence 951)
+    start position(s): 7
+    motif(s): LKK
+>000000100000000000000
+ (sequence 953)
+    start position(s): 3 7
+    motif(s): LKK LKK
+>000000100000000000000
+ (sequence 970)
+    start position(s): 17 21
+    motif(s): LKK LKK
+>000000100000000000000
+ (sequence 990)
+    start position(s): 18
+    motif(s): LKK
+>000000100000000000000
+ (sequence 997)
+    start position(s): 12
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1027)
+    start position(s): 7
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1052)
+    start position(s): 5
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1078)
+    start position(s): 21
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1079)
+    start position(s): 17
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1083)
+    start position(s): 11
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1096)
+    start position(s): 3
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1122)
+    start position(s): 11
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1154)
+    start position(s): 70
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1157)
+    start position(s): 58
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1158)
+    start position(s): 58
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1159)
+    start position(s): 48
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1161)
+    start position(s): 31
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1164)
+    start position(s): 27
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1165)
+    start position(s): 34
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1174)
+    start position(s): 28
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1179)
+    start position(s): 48
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1194)
+    start position(s): 67
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1203)
+    start position(s): 43
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1220)
+    start position(s): 5
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1221)
+    start position(s): 5 16
+    motif(s): LKK LKK
+>000000100000000000000
+ (sequence 1222)
+    start position(s): 5
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1223)
+    start position(s): 5
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1224)
+    start position(s): 5
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1246)
+    start position(s): 35
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1248)
+    start position(s): 38
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1267)
+    start position(s): 32
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1276)
+    start position(s): 32
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1289)
+    start position(s): 18
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1305)
+    start position(s): 47
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1313)
+    start position(s): 5
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1314)
+    start position(s): 93
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1317)
+    start position(s): 17
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1319)
+    start position(s): 80
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1320)
+    start position(s): 7
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1322)
+    start position(s): 7
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1355)
+    start position(s): 32
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1427)
+    start position(s): 32
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1457)
+    start position(s): 2
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1459)
+    start position(s): 71
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1487)
+    start position(s): 63
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1513)
+    start position(s): 5 16
+    motif(s): LKK LKK
+>000000100000000000000
+ (sequence 1514)
+    start position(s): 5 16
+    motif(s): LKK LKK
+>000000100000000000000
+ (sequence 1515)
+    start position(s): 5 16
+    motif(s): LKK LKK
+>000000100000000000000
+ (sequence 1519)
+    start position(s): 19
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1555)
+    start position(s): 28 72
+    motif(s): LKK LKK
+>000000100000000000000
+ (sequence 1561)
+    start position(s): 32
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1562)
+    start position(s): 32
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1565)
+    start position(s): 4
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1578)
+    start position(s): 85
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1591)
+    start position(s): 16
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1594)
+    start position(s): 5
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1595)
+    start position(s): 16
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1596)
+    start position(s): 16
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1604)
+    start position(s): 23
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1609)
+    start position(s): 67
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1610)
+    start position(s): 67
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1631)
+    start position(s): 71
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1632)
+    start position(s): 71
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1633)
+    start position(s): 57
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1636)
+    start position(s): 50
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1654)
+    start position(s): 60
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1658)
+    start position(s): 32
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1659)
+    start position(s): 32
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1661)
+    start position(s): 52
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1694)
+    start position(s): 17
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1700)
+    start position(s): 28
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1720)
+    start position(s): 33
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1735)
+    start position(s): 9
+    motif(s): LKK
+>000000100000000000000
+ (sequence 1749)
+    start position(s): 4 15
+    motif(s): LKK LKK
+>000000100000000000000
+ (sequence 1750)
+    start position(s): 4 15
+    motif(s): LKK LKK
+>000000100000000000000
+ (sequence 1981)
+    start position(s): 16
+    motif(s): LKK
+>000000100000000000000
+ (sequence 2067)
+    start position(s): 17
+    motif(s): LKK
+>000000100000000000000
+ (sequence 2070)
+    start position(s): 9
+    motif(s): LKK
+>000000100000000000000
+ (sequence 2141)
+    start position(s): 11 18
+    motif(s): LKK LKK
+>000000100000000000000
+ (sequence 2202)
+    start position(s): 15 23
+    motif(s): LKK LKK
+>000000100000000000000
+ (sequence 2203)
+    start position(s): 4 15
+    motif(s): LKK LKK
+>000000100000000000000
+ (sequence 2204)
+    start position(s): 4
+    motif(s): LKK
+>000000100000000000000
+ (sequence 2205)
+    start position(s): 4
+    motif(s): LKK
+>000000100000000000000
+ (sequence 2206)
+    start position(s): 15
+    motif(s): LKK
+>000000100000000000000
+ (sequence 2239)
+    start position(s): 14
+    motif(s): LKK
+144 positive sequences contain the motif
+
+0 negative sequences contain the motif

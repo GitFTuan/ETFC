@@ -1,0 +1,66 @@
+
+MOTIF:  C G E S C
+******
+>000000010000000000000
+ (sequence 27)
+    start position(s): 4
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 29)
+    start position(s): 7
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 41)
+    start position(s): 4
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 42)
+    start position(s): 4
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 43)
+    start position(s): 4
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 44)
+    start position(s): 4
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 70)
+    start position(s): 6
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 72)
+    start position(s): 4
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 75)
+    start position(s): 5
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 76)
+    start position(s): 5
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 77)
+    start position(s): 4
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 83)
+    start position(s): 4
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 84)
+    start position(s): 4
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 88)
+    start position(s): 9
+    motif(s): CGESC
+>000000010000000000000
+ (sequence 101)
+    start position(s): 4
+    motif(s): CGESC
+15 positive sequences contain the motif
+
+0 negative sequences contain the motif

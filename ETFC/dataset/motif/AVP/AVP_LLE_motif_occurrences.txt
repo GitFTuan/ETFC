@@ -1,0 +1,263 @@
+>000000000000010000000
+ (sequence 4)
+    start position(s): 12
+    motif(s): LLE
+>000000000000010000000
+ (sequence 69)
+    start position(s): 10
+    motif(s): LLE
+>000000000000010000000
+ (sequence 73)
+    start position(s): 29
+    motif(s): LLE
+>000000000000010000000
+ (sequence 74)
+    start position(s): 30
+    motif(s): LLE
+>000000000000010000000
+ (sequence 80)
+    start position(s): 29
+    motif(s): LLE
+>000000000000010000000
+ (sequence 112)
+    start position(s): 14
+    motif(s): LLE
+>000000000000010000000
+ (sequence 114)
+    start position(s): 31
+    motif(s): LLE
+>000000000000010000000
+ (sequence 115)
+    start position(s): 16
+    motif(s): LLE
+>000000000000010000000
+ (sequence 133)
+    start position(s): 9
+    motif(s): LLE
+>000000000000010000000
+ (sequence 227)
+    start position(s): 27
+    motif(s): LLE
+>000000000000010000000
+ (sequence 228)
+    start position(s): 28
+    motif(s): LLE
+>000000000000010000000
+ (sequence 277)
+    start position(s): 32
+    motif(s): LLE
+>000000000000010000000
+ (sequence 278)
+    start position(s): 33
+    motif(s): LLE
+>000000000000010000000
+ (sequence 286)
+    start position(s): 30
+    motif(s): LLE
+>000000000000010000000
+ (sequence 287)
+    start position(s): 31
+    motif(s): LLE
+>000000000000010000000
+ (sequence 303)
+    start position(s): 25
+    motif(s): LLE
+>000000000000010000000
+ (sequence 333)
+    start position(s): 12
+    motif(s): LLE
+>000000000000010000000
+ (sequence 376)
+    start position(s): 22
+    motif(s): LLE
+>000000000000010000000
+ (sequence 377)
+    start position(s): 23
+    motif(s): LLE
+>000000000000010000000
+ (sequence 385)
+    start position(s): 28
+    motif(s): LLE
+>000000000000010000000
+ (sequence 386)
+    start position(s): 29
+    motif(s): LLE
+>000000000000010000000
+ (sequence 390)
+    start position(s): 20
+    motif(s): LLE
+>000000000000010000000
+ (sequence 418)
+    start position(s): 32
+    motif(s): LLE
+>000000000000010000000
+ (sequence 425)
+    start position(s): 35
+    motif(s): LLE
+>000000000000010000000
+ (sequence 427)
+    start position(s): 35
+    motif(s): LLE
+>000000000000010000000
+ (sequence 438)
+    start position(s): 25
+    motif(s): LLE
+>000000000000010000000
+ (sequence 446)
+    start position(s): 24
+    motif(s): LLE
+>000000000000010000000
+ (sequence 450)
+    start position(s): 25
+    motif(s): LLE
+>000000000000010000000
+ (sequence 451)
+    start position(s): 26
+    motif(s): LLE
+>000000000000010000000
+ (sequence 456)
+    start position(s): 26
+    motif(s): LLE
+>000000000000010000000
+ (sequence 457)
+    start position(s): 27
+    motif(s): LLE
+>000000000000010000000
+ (sequence 470)
+    start position(s): 17
+    motif(s): LLE
+>000000000000010000000
+ (sequence 492)
+    start position(s): 31
+    motif(s): LLE
+>000000000000010000000
+ (sequence 493)
+    start position(s): 32
+    motif(s): LLE
+>000000000000010000000
+ (sequence 497)
+    start position(s): 13
+    motif(s): LLE
+>000000000000010000000
+ (sequence 564)
+    start position(s): 23
+    motif(s): LLE
+>000000000000010000000
+ (sequence 565)
+    start position(s): 24
+    motif(s): LLE
+>000000000000010000000
+ (sequence 566)
+    start position(s): 21
+    motif(s): LLE
+>000000000000010000000
+ (sequence 625)
+    start position(s): 22
+    motif(s): LLE
+>000000000000010000000
+ (sequence 643)
+    start position(s): 34
+    motif(s): LLE
+>000000000000010000000
+ (sequence 653)
+    start position(s): 11
+    motif(s): LLE
+>000000000000010000000
+ (sequence 674)
+    start position(s): 30
+    motif(s): LLE
+>000000000000010000000
+ (sequence 676)
+    start position(s): 15
+    motif(s): LLE
+>000000000000010000000
+ (sequence 681)
+    start position(s): 33
+    motif(s): LLE
+>000000000000010000000
+ (sequence 682)
+    start position(s): 33
+    motif(s): LLE
+>000000000000010000000
+ (sequence 683)
+    start position(s): 33
+    motif(s): LLE
+>000000000000010000000
+ (sequence 686)
+    start position(s): 11
+    motif(s): LLE
+>000000000000010000000
+ (sequence 687)
+    start position(s): 18
+    motif(s): LLE
+>000000000000010000000
+ (sequence 692)
+    start position(s): 19
+    motif(s): LLE
+>000000000000010000000
+ (sequence 716)
+    start position(s): 23
+    motif(s): LLE
+>000000000000010000000
+ (sequence 717)
+    start position(s): 23
+    motif(s): LLE
+>000000000000010000000
+ (sequence 718)
+    start position(s): 23
+    motif(s): LLE
+>000000000000010000000
+ (sequence 719)
+    start position(s): 23
+    motif(s): LLE
+>000000000000010000000
+ (sequence 720)
+    start position(s): 23
+    motif(s): LLE
+>000000000000010000000
+ (sequence 721)
+    start position(s): 23
+    motif(s): LLE
+>000000000000010000000
+ (sequence 722)
+    start position(s): 23
+    motif(s): LLE
+>000000000000010000000
+ (sequence 723)
+    start position(s): 23
+    motif(s): LLE
+>000000000000010000000
+ (sequence 724)
+    start position(s): 23
+    motif(s): LLE
+>000000000000010000000
+ (sequence 725)
+    start position(s): 23
+    motif(s): LLE
+>000000000000010000000
+ (sequence 727)
+    start position(s): 23
+    motif(s): LLE
+>000000000000010000000
+ (sequence 729)
+    start position(s): 23
+    motif(s): LLE
+>000000000000010000000
+ (sequence 730)
+    start position(s): 23
+    motif(s): LLE
+>000000000000010000000
+ (sequence 731)
+    start position(s): 23
+    motif(s): LLE
+>000000000000010000000
+ (sequence 732)
+    start position(s): 23
+    motif(s): LLE
+>000000000000010000000
+ (sequence 733)
+    start position(s): 23
+    motif(s): LLE
+65 positive sequences contain the motif
+
+0 negative sequences contain the motif

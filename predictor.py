@@ -16,8 +16,8 @@ import torch
 
 def ArgsGet():
     parse = argparse.ArgumentParser(description='ETFC')
-    parse.add_argument('--file', type=str, default='test_data.txt', help='fasta file')
-    parse.add_argument('--out_path', type=str, default='ETFC/result', help='output path')
+    parse.add_argument('-file', type=str, default='./test_data.fasta', help='fasta file')
+    parse.add_argument('-out_path', type=str, default='./ETFC/result', help='output path')
     args = parse.parse_args()
     return args
 
@@ -40,17 +40,30 @@ def get_data(file):
     amino_acids = 'XACDEFGHIKLMNPQRSTVWY'
     max_len = 50
     data_e = []
+    sign = True
+    delSeq = 0
     for i in range(len(seqs)):
-        length = len(seqs[i])-2
+        if len(seqs[i]) > max_len or len(seqs[i]) < 5:
+            print(f'本方法只能识别序列长度在5-50AA的多肽，该序列将不能识别：{seqs[i]}')
+            del names[i-delSeq]
+            delSeq += 1
+            continue
+        length = len(seqs[i])
         seq_length.append(length)
         elemt, st = [], seqs[i]
         for j in st:
             if j == ',' or j == '1' or j == '0':
                 continue
+            elif j not in amino_acids:
+                sign = False
+                print(f'本方法只能识别包含天然氨基酸的多肽，该序列不能识别{seqs[i]}')
+                del names[i-delSeq]
+                delSeq += 1
+                break
 
             index = amino_acids.index(j)
             elemt.append(index)
-        if length <= max_len:
+        if length <= max_len and sign:
             elemt += [0] * (max_len - length)
             data_e.append(elemt)
 
@@ -79,7 +92,7 @@ def predict(test, seq_length, h5_model):
     return score_label
 
 
-def test_my(test_data, seq_length, output_path, names):
+def pre_my(test_data, seq_length, output_path, names):
     # models
     h5_model = []
     model_num = 10
@@ -130,4 +143,4 @@ if __name__ == '__main__':
     seq_length = torch.LongTensor(seq_length)
 
     # prediction
-    test_my(data, seq_length, output_path, names)
+    pre_my(data, seq_length, output_path, names)

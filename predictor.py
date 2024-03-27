@@ -4,7 +4,7 @@
 # @Software: PyCharm
 
 import os
-from TCFAN.model import *
+from ETFC.model import *
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
@@ -16,7 +16,7 @@ import torch
 
 def ArgsGet():
     parse = argparse.ArgumentParser(description='ETFC')
-    parse.add_argument('--file', type=str, default='test.fasta', help='fasta file')
+    parse.add_argument('--file', type=str, default='test_data.txt', help='fasta file')
     parse.add_argument('--out_path', type=str, default='ETFC/result', help='output path')
     args = parse.parse_args()
     return args
@@ -41,10 +41,13 @@ def get_data(file):
     max_len = 50
     data_e = []
     for i in range(len(seqs)):
-        length = len(seqs[i])
+        length = len(seqs[i])-2
         seq_length.append(length)
         elemt, st = [], seqs[i]
         for j in st:
+            if j == ',' or j == '1' or j == '0':
+                continue
+
             index = amino_acids.index(j)
             elemt.append(index)
         if length <= max_len:
@@ -59,7 +62,7 @@ def predict(test, seq_length, h5_model):
     print('predicting...')
 
     # 1.loading model
-    model = MLTPModel(50, 192, 21, 0.6, 1, 8)
+    model = ETFC(50, 192, 21, 0.6, 1, 8)
     model.load_state_dict(torch.load(dir))
 
     # 2.predict
@@ -76,7 +79,7 @@ def predict(test, seq_length, h5_model):
     return score_label
 
 
-def test_my(test, seq_length, output_path, names):
+def test_my(test_data, seq_length, output_path, names):
     # models
     h5_model = []
     model_num = 10
@@ -84,7 +87,7 @@ def test_my(test, seq_length, output_path, names):
         h5_model.append('model{}.h5'.format(str(i)))
 
     # prediction
-    result = predict(test, seq_length, h5_model)
+    result = predict(test_data, seq_length, h5_model)
 
     # label
     peptides = ['AAP', 'ABP', 'ACP', 'ACVP', 'ADP', 'AEP', 'AFP', 'AHIVP', 'AHP', 'AIP', 'AMRSAP', 'APP', 'ATP',

@@ -40,9 +40,9 @@ def get_data(file):
     amino_acids = 'XACDEFGHIKLMNPQRSTVWY'
     max_len = 50
     data_e = []
-    sign = True
     delSeq = 0
     for i in range(len(seqs)):
+        sign = True
         if len(seqs[i]) > max_len or len(seqs[i]) < 5:
             print(f'本方法只能识别序列长度在5-50AA的多肽，该序列将不能识别：{seqs[i]}')
             del names[i-delSeq]
